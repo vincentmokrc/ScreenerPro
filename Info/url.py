@@ -1,0 +1,7 @@
+listing_directory = "https://www.bursamalaysia.com/trade/trading_resources/listing_directory/"
+main_market = "main_market"
+ace_market = "ace_market"
+leap_market = "leap_market"
+lfx_market = "lfx_market"
+pn17_and_gn13_companies = "pn17_and_gn13_companies"
+change_of_name = "change_of_name"
