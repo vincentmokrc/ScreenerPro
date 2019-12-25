@@ -4,6 +4,7 @@ from selenium import webdriver
 import time
 import pandas as pd
 import Info.url as URL
+import selenium.webdriver.support.select
 
 class getList:
 
