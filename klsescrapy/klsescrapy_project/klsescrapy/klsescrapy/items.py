@@ -11,6 +11,4 @@ import scrapy
 class KlsescrapyItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    companyStockCode = scrapy.Field()
-    companyName = scrapy.Field()
-    companyURL = scrapy.Field()
+    pass
