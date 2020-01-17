@@ -1,0 +1,2210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.62.0">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="16" family="Times" color="#000000"/>
+<image top="296" left="270" width="326" height="113" src="output-1_1.png"/>
+<text top="414" left="305" width="252" height="21" font="0">N2N CONNECT BERHAD (523137-K)</text>
+<text top="433" left="345" width="171" height="20" font="0">(Incorporated in Malaysia)</text>
+<text top="488" left="183" width="495" height="21" font="0">UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS</text>
+<text top="507" left="179" width="503" height="21" font="0">FOR THE QUARTER AND YEAR-TO-DATE ENDED 30 SEPTEMBER 2019</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+<text top="82" left="79" width="175" height="14" font="1">N2N CONNECT BERHAD (523137-K)</text>
+<text top="99" left="79" width="120" height="14" font="1">(Incorporated in Malaysia)</text>
+<text top="115" left="79" width="228" height="14" font="1">SUMMARY OF KEY FINANCIAL INFORMATION</text>
+<text top="132" left="79" width="350" height="14" font="1">FOR THE QUARTER AND YEAR-TO-DATE ENDED 30 SEPTEMBER 2019</text>
+<text top="165" left="79" width="39" height="14" font="1">Remark:</text>
+<text top="265" left="395" width="63" height="14" font="1">30 Sept 2019</text>
+<text top="265" left="505" width="63" height="14" font="1">30 Sept 2018</text>
+<text top="265" left="631" width="63" height="14" font="1">30 Sept 2019</text>
+<text top="265" left="741" width="63" height="14" font="1">30 Sept 2018</text>
+<text top="282" left="422" width="36" height="14" font="1">RM'000</text>
+<text top="282" left="532" width="36" height="14" font="1">RM'000</text>
+<text top="282" left="657" width="36" height="14" font="1">RM'000</text>
+<text top="282" left="768" width="36" height="14" font="1">RM'000</text>
+<text top="315" left="79" width="6" height="14" font="1">1</text>
+<text top="315" left="108" width="41" height="14" font="1">Revenue</text>
+<text top="315" left="426" width="32" height="14" font="1">25,450</text>
+<text top="315" left="359" width="69" height="14" font="1">                        </text>
+<text top="315" left="536" width="32" height="14" font="1">25,238</text>
+<text top="315" left="470" width="69" height="14" font="1">                        </text>
+<text top="315" left="661" width="32" height="14" font="1">78,866</text>
+<text top="315" left="594" width="69" height="14" font="1">                        </text>
+<text top="315" left="772" width="32" height="14" font="1">80,253</text>
+<text top="315" left="705" width="69" height="14" font="1">                        </text>
+<text top="348" left="79" width="6" height="14" font="1">2</text>
+<text top="348" left="108" width="95" height="14" font="1">Profit before taxation</text>
+<text top="348" left="432" width="26" height="14" font="1">5,729</text>
+<text top="348" left="359" width="75" height="14" font="1">                          </text>
+<text top="348" left="542" width="26" height="14" font="1">3,463</text>
+<text top="348" left="470" width="75" height="14" font="1">                          </text>
+<text top="348" left="662" width="32" height="14" font="1">15,280</text>
+<text top="348" left="594" width="69" height="14" font="1">                        </text>
+<text top="348" left="772" width="32" height="14" font="1">15,299</text>
+<text top="348" left="705" width="69" height="14" font="1">                        </text>
+<text top="381" left="79" width="6" height="14" font="1">3</text>
+<text top="381" left="108" width="88" height="14" font="1">Profit for the period</text>
+<text top="381" left="432" width="26" height="14" font="1">5,457</text>
+<text top="381" left="359" width="75" height="14" font="1">                          </text>
+<text top="381" left="542" width="26" height="14" font="1">2,122</text>
+<text top="381" left="470" width="75" height="14" font="1">                          </text>
+<text top="381" left="662" width="32" height="14" font="1">13,804</text>
+<text top="381" left="594" width="69" height="14" font="1">                        </text>
+<text top="381" left="772" width="32" height="14" font="1">10,045</text>
+<text top="381" left="705" width="69" height="14" font="1">                        </text>
+<text top="414" left="79" width="6" height="14" font="1">4</text>
+<text top="414" left="108" width="202" height="14" font="1">Profit attributable to owners of the Company</text>
+<text top="414" left="432" width="26" height="14" font="1">5,559</text>
+<text top="414" left="359" width="75" height="14" font="1">                          </text>
+<text top="414" left="542" width="26" height="14" font="1">2,213</text>
+<text top="414" left="469" width="75" height="14" font="1">                          </text>
+<text top="414" left="661" width="32" height="14" font="1">14,106</text>
+<text top="414" left="594" width="69" height="14" font="1">                        </text>
+<text top="414" left="772" width="32" height="14" font="1">10,288</text>
+<text top="414" left="704" width="69" height="14" font="1">                        </text>
+<text top="448" left="79" width="6" height="14" font="1">5</text>
+<text top="448" left="108" width="141" height="14" font="1">Basic earnings per share (sen)</text>
+<text top="448" left="438" width="20" height="14" font="1">1.00</text>
+<text top="448" left="359" width="81" height="14" font="1">                            </text>
+<text top="448" left="548" width="20" height="14" font="1">0.39</text>
+<text top="448" left="469" width="81" height="14" font="1">                            </text>
+<text top="448" left="673" width="20" height="14" font="1">2.62</text>
+<text top="448" left="594" width="81" height="14" font="1">                            </text>
+<text top="448" left="783" width="20" height="14" font="1">1.94</text>
+<text top="448" left="704" width="81" height="14" font="1">                            </text>
+<text top="481" left="79" width="6" height="14" font="1">6</text>
+<text top="481" left="108" width="148" height="14" font="1">Diluted earnings per share (sen)</text>
+<text top="481" left="438" width="20" height="14" font="1">0.80</text>
+<text top="481" left="359" width="81" height="14" font="1">                            </text>
+<text top="481" left="548" width="20" height="14" font="1">0.39</text>
+<text top="481" left="469" width="81" height="14" font="1">                            </text>
+<text top="481" left="673" width="20" height="14" font="1">2.08</text>
+<text top="481" left="594" width="81" height="14" font="1">                            </text>
+<text top="481" left="783" width="20" height="14" font="1">1.94</text>
+<text top="481" left="704" width="81" height="14" font="1">                            </text>
+<text top="514" left="79" width="6" height="14" font="1">7</text>
+<text top="514" left="108" width="203" height="14" font="1">Proposed/Declared dividend per share (sen)</text>
+<text top="514" left="443" width="3" height="14" font="1">-</text>
+<text top="514" left="359" width="86" height="14" font="1">                              </text>
+<text top="514" left="553" width="3" height="14" font="1">-</text>
+<text top="514" left="469" width="86" height="14" font="1">                              </text>
+<text top="514" left="673" width="20" height="14" font="1">1.00</text>
+<text top="514" left="594" width="81" height="14" font="1">                            </text>
+<text top="514" left="783" width="20" height="14" font="1">3.00</text>
+<text top="514" left="704" width="81" height="14" font="1">                            </text>
+<text top="181" left="79" width="728" height="14" font="1">The results for the quarter and nine months ended 30 September 2019 should be read in conjunction with the Annual Audited Financial Statements</text>
+<text top="197" left="79" width="728" height="14" font="1">of N2N Connect Berhad and its subsidiaries (&#34;Group&#34;) for the financial year ended 31 December 2018 and the accompanying explanatory notes</text>
+<text top="213" left="79" width="216" height="14" font="1">attached to the interim financial statements.</text>
+<text top="249" left="428" width="72" height="14" font="1">Quarter Ended</text>
+<text top="249" left="650" width="98" height="14" font="1">Year-To-Date Ended</text>
+<text top="1212" left="808" width="7" height="14" font="1">2</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="2" size="11" family="Times" color="#000000"/>
+<text top="65" left="67" width="183" height="15" font="2">N2N CONNECT BERHAD (523137-K)</text>
+<text top="83" left="67" width="124" height="15" font="2">(Incorporated in Malaysia)</text>
+<text top="100" left="67" width="618" height="15" font="2">UNAUDITED CONDENSED CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME</text>
+<text top="117" left="67" width="367" height="15" font="2">FOR THE QUARTER AND YEAR-TO-DATE ENDED 30 SEPTEMBER 2019</text>
+<text top="168" left="344" width="65" height="15" font="2">30 Sept 2019</text>
+<text top="168" left="449" width="119" height="15" font="2">30 Sept 2018 Changes</text>
+<text top="168" left="603" width="65" height="15" font="2">30 Sept 2019</text>
+<text top="168" left="708" width="119" height="15" font="2">30 Sept 2018 Changes</text>
+<text top="185" left="289" width="24" height="15" font="2">Note</text>
+<text top="185" left="372" width="37" height="15" font="2">RM'000</text>
+<text top="185" left="477" width="37" height="15" font="2">RM'000</text>
+<text top="185" left="541" width="10" height="15" font="2">%</text>
+<text top="185" left="631" width="37" height="15" font="2">RM'000</text>
+<text top="185" left="736" width="37" height="15" font="2">RM'000</text>
+<text top="185" left="799" width="10" height="15" font="2">%</text>
+<text top="202" left="339" width="71" height="15" font="2">(UNAUDITED)</text>
+<text top="202" left="444" width="71" height="15" font="2">(UNAUDITED)</text>
+<text top="202" left="597" width="71" height="15" font="2">(UNAUDITED)</text>
+<text top="202" left="702" width="71" height="15" font="2">(UNAUDITED)</text>
+<text top="237" left="67" width="43" height="15" font="2">Revenue</text>
+<text top="237" left="377" width="33" height="15" font="2">25,450</text>
+<text top="237" left="326" width="52" height="15" font="2">                 </text>
+<text top="237" left="482" width="33" height="15" font="2">25,238</text>
+<text top="237" left="431" width="52" height="15" font="2">                 </text>
+<text top="237" left="538" width="15" height="15" font="2">1%</text>
+<text top="237" left="635" width="33" height="15" font="2">78,866</text>
+<text top="237" left="584" width="52" height="15" font="2">                 </text>
+<text top="237" left="740" width="33" height="15" font="2">80,253</text>
+<text top="237" left="689" width="52" height="15" font="2">                 </text>
+<text top="237" left="794" width="19" height="15" font="2">-2%</text>
+<text top="271" left="67" width="62" height="15" font="2">Cost of sales</text>
+<text top="271" left="373" width="40" height="15" font="2">(10,326)</text>
+<text top="271" left="326" width="49" height="15" font="2">                </text>
+<text top="271" left="478" width="40" height="15" font="2">(11,578)</text>
+<text top="271" left="431" width="49" height="15" font="2">                </text>
+<text top="271" left="533" width="25" height="15" font="2">-11%</text>
+<text top="271" left="631" width="40" height="15" font="2">(33,481)</text>
+<text top="271" left="584" width="49" height="15" font="2">                </text>
+<text top="271" left="736" width="40" height="15" font="2">(35,261)</text>
+<text top="271" left="689" width="49" height="15" font="2">                </text>
+<text top="271" left="794" width="19" height="15" font="2">-5%</text>
+<text top="305" left="67" width="56" height="15" font="2">Gross profit</text>
+<text top="305" left="377" width="33" height="15" font="2">15,124</text>
+<text top="305" left="326" width="52" height="15" font="2">                 </text>
+<text top="305" left="482" width="33" height="15" font="2">13,660</text>
+<text top="305" left="431" width="52" height="15" font="2">                 </text>
+<text top="305" left="534" width="21" height="15" font="2">11%</text>
+<text top="305" left="635" width="33" height="15" font="2">45,385</text>
+<text top="305" left="584" width="52" height="15" font="2">                 </text>
+<text top="305" left="740" width="33" height="15" font="2">44,992</text>
+<text top="305" left="689" width="52" height="15" font="2">                 </text>
+<text top="305" left="796" width="15" height="15" font="2">1%</text>
+<text top="339" left="67" width="112" height="15" font="2">Other operating income</text>
+<text top="339" left="383" width="27" height="15" font="2">1,118</text>
+<text top="339" left="326" width="58" height="15" font="2">                   </text>
+<text top="339" left="497" width="18" height="15" font="2">504</text>
+<text top="339" left="431" width="67" height="15" font="2">                      </text>
+<text top="339" left="532" width="27" height="15" font="2">122%</text>
+<text top="339" left="641" width="27" height="15" font="2">3,699</text>
+<text top="339" left="584" width="58" height="15" font="2">                   </text>
+<text top="339" left="746" width="27" height="15" font="2">3,659</text>
+<text top="339" left="689" width="58" height="15" font="2">                   </text>
+<text top="339" left="796" width="15" height="15" font="2">1%</text>
+<text top="374" left="67" width="116" height="15" font="2">Administrative expenses</text>
+<text top="374" left="373" width="40" height="15" font="2">(10,217)</text>
+<text top="374" left="326" width="49" height="15" font="2">                </text>
+<text top="374" left="478" width="40" height="15" font="2">(10,239)</text>
+<text top="374" left="431" width="49" height="15" font="2">                </text>
+<text top="374" left="537" width="16" height="15" font="2">0%</text>
+<text top="374" left="631" width="40" height="15" font="2">(32,678)</text>
+<text top="374" left="584" width="49" height="15" font="2">                </text>
+<text top="374" left="736" width="40" height="15" font="2">(31,786)</text>
+<text top="374" left="689" width="49" height="15" font="2">                </text>
+<text top="374" left="796" width="16" height="15" font="2">3%</text>
+<text top="408" left="67" width="66" height="15" font="2">Finance costs</text>
+<text top="408" left="388" width="25" height="15" font="2">(296)</text>
+<text top="408" left="326" width="64" height="15" font="2">                     </text>
+<text top="408" left="493" width="25" height="15" font="2">(391)</text>
+<text top="408" left="431" width="64" height="15" font="2">                     </text>
+<text top="408" left="533" width="25" height="15" font="2">-24%</text>
+<text top="408" left="637" width="34" height="15" font="2">(1,001)</text>
+<text top="408" left="585" width="55" height="15" font="2">                  </text>
+<text top="408" left="742" width="34" height="15" font="2">(1,431)</text>
+<text top="408" left="689" width="55" height="15" font="2">                  </text>
+<text top="408" left="791" width="25" height="15" font="2">-30%</text>
+<text top="425" left="689" width="535" height="15" font="2">                                                                                                                                                                               </text>
+<text top="442" left="67" width="141" height="15" font="2">Share of results of associates</text>
+<text top="442" left="394" width="4" height="15" font="2">-</text>
+<text top="442" left="326" width="70" height="15" font="2">                       </text>
+<text top="442" left="499" width="19" height="15" font="2">(71)</text>
+<text top="442" left="431" width="70" height="15" font="2">                       </text>
+<text top="442" left="530" width="31" height="15" font="2">-100%</text>
+<text top="442" left="646" width="25" height="15" font="2">(125)</text>
+<text top="442" left="585" width="64" height="15" font="2">                     </text>
+<text top="442" left="751" width="25" height="15" font="2">(135)</text>
+<text top="442" left="689" width="64" height="15" font="2">                     </text>
+<text top="442" left="794" width="19" height="15" font="2">-7%</text>
+<text top="476" left="67" width="99" height="15" font="2">Profit before taxation</text>
+<text top="476" left="383" width="27" height="15" font="2">5,729</text>
+<text top="476" left="326" width="58" height="15" font="2">                   </text>
+<text top="476" left="488" width="27" height="15" font="2">3,463</text>
+<text top="476" left="431" width="58" height="15" font="2">                   </text>
+<text top="476" left="534" width="21" height="15" font="2">65%</text>
+<text top="476" left="635" width="33" height="15" font="2">15,280</text>
+<text top="476" left="584" width="52" height="15" font="2">                 </text>
+<text top="476" left="740" width="33" height="15" font="2">15,299</text>
+<text top="476" left="689" width="52" height="15" font="2">                 </text>
+<text top="476" left="796" width="15" height="15" font="2">0%</text>
+<text top="510" left="67" width="41" height="15" font="2">Taxation</text>
+<text top="510" left="295" width="13" height="15" font="2">B6</text>
+<text top="510" left="388" width="25" height="15" font="2">(272)</text>
+<text top="510" left="326" width="64" height="15" font="2">                     </text>
+<text top="510" left="484" width="34" height="15" font="2">(1,341)</text>
+<text top="510" left="431" width="55" height="15" font="2">                  </text>
+<text top="510" left="533" width="25" height="15" font="2">-80%</text>
+<text top="510" left="637" width="34" height="15" font="2">(1,476)</text>
+<text top="510" left="584" width="55" height="15" font="2">                  </text>
+<text top="510" left="742" width="34" height="15" font="2">(5,254)</text>
+<text top="510" left="689" width="55" height="15" font="2">                  </text>
+<text top="510" left="791" width="25" height="15" font="2">-72%</text>
+<text top="528" left="689" width="79" height="15" font="2">                          </text>
+<text top="545" left="67" width="92" height="15" font="2">Profit for the period</text>
+<text top="545" left="383" width="27" height="15" font="2">5,457</text>
+<text top="545" left="326" width="58" height="15" font="2">                   </text>
+<text top="545" left="488" width="27" height="15" font="2">2,122</text>
+<text top="545" left="431" width="58" height="15" font="2">                   </text>
+<text top="545" left="532" width="27" height="15" font="2">157%</text>
+<text top="545" left="635" width="33" height="15" font="2">13,804</text>
+<text top="545" left="584" width="52" height="15" font="2">                 </text>
+<text top="545" left="740" width="33" height="15" font="2">10,045</text>
+<text top="545" left="689" width="52" height="15" font="2">                 </text>
+<text top="545" left="793" width="21" height="15" font="2">37%</text>
+<text top="579" left="67" width="143" height="15" font="2">Other comprehensive income:</text>
+<text top="613" left="67" width="209" height="15" font="2">Items that may be reclassified subsequently</text>
+<text top="630" left="67" width="83" height="15" font="2">   to profit or loss:</text>
+<text top="647" left="67" width="172" height="15" font="2">- Exchange differences arising from </text>
+<text top="664" left="67" width="160" height="15" font="2">   translation of foreign operations</text>
+<text top="664" left="392" width="18" height="15" font="2">734</text>
+<text top="664" left="326" width="67" height="15" font="2">                      </text>
+<text top="664" left="488" width="27" height="15" font="2">2,482</text>
+<text top="664" left="431" width="58" height="15" font="2">                   </text>
+<text top="664" left="650" width="18" height="15" font="2">883</text>
+<text top="664" left="584" width="67" height="15" font="2">                      </text>
+<text top="664" left="746" width="27" height="15" font="2">1,615</text>
+<text top="664" left="689" width="58" height="15" font="2">                   </text>
+<text top="698" left="67" width="204" height="15" font="2">Total comprehensive income for the period</text>
+<text top="697" left="383" width="27" height="15" font="2">6,191</text>
+<text top="697" left="328" width="58" height="15" font="2">                   </text>
+<text top="697" left="488" width="27" height="15" font="2">4,604</text>
+<text top="697" left="433" width="58" height="15" font="2">                   </text>
+<text top="697" left="635" width="33" height="15" font="2">14,687</text>
+<text top="697" left="586" width="52" height="15" font="2">                 </text>
+<text top="697" left="740" width="33" height="15" font="2">11,660</text>
+<text top="697" left="691" width="52" height="15" font="2">                 </text>
+<text top="733" left="67" width="163" height="15" font="2">Profit for the period attributable to:</text>
+<text top="750" left="67" width="123" height="15" font="2">- Owners of the Company</text>
+<text top="750" left="383" width="27" height="15" font="2">5,559</text>
+<text top="750" left="326" width="58" height="15" font="2">                   </text>
+<text top="750" left="488" width="27" height="15" font="2">2,213</text>
+<text top="750" left="431" width="58" height="15" font="2">                   </text>
+<text top="750" left="635" width="33" height="15" font="2">14,106</text>
+<text top="750" left="584" width="52" height="15" font="2">                 </text>
+<text top="750" left="740" width="33" height="15" font="2">10,288</text>
+<text top="750" left="689" width="52" height="15" font="2">                 </text>
+<text top="767" left="67" width="122" height="15" font="2">- Non-controlling interests</text>
+<text top="767" left="388" width="25" height="15" font="2">(102)</text>
+<text top="767" left="326" width="64" height="15" font="2">                     </text>
+<text top="767" left="499" width="19" height="15" font="2">(91)</text>
+<text top="767" left="431" width="70" height="15" font="2">                       </text>
+<text top="767" left="646" width="25" height="15" font="2">(302)</text>
+<text top="767" left="584" width="64" height="15" font="2">                     </text>
+<text top="767" left="751" width="25" height="15" font="2">(243)</text>
+<text top="767" left="689" width="64" height="15" font="2">                     </text>
+<text top="784" left="383" width="27" height="15" font="2">5,457</text>
+<text top="784" left="326" width="58" height="15" font="2">                   </text>
+<text top="784" left="488" width="27" height="15" font="2">2,122</text>
+<text top="784" left="431" width="58" height="15" font="2">                   </text>
+<text top="784" left="635" width="33" height="15" font="2">13,804</text>
+<text top="784" left="584" width="52" height="15" font="2">                 </text>
+<text top="784" left="740" width="33" height="15" font="2">10,045</text>
+<text top="784" left="689" width="52" height="15" font="2">                 </text>
+<text top="818" left="67" width="207" height="15" font="2">Total comprehensive income for the period:</text>
+<text top="835" left="67" width="123" height="15" font="2">- Owners of the Company</text>
+<text top="835" left="383" width="27" height="15" font="2">6,293</text>
+<text top="835" left="326" width="58" height="15" font="2">                   </text>
+<text top="835" left="488" width="27" height="15" font="2">4,695</text>
+<text top="835" left="431" width="58" height="15" font="2">                   </text>
+<text top="835" left="635" width="33" height="15" font="2">14,989</text>
+<text top="835" left="584" width="52" height="15" font="2">                 </text>
+<text top="835" left="740" width="33" height="15" font="2">11,903</text>
+<text top="835" left="689" width="52" height="15" font="2">                 </text>
+<text top="852" left="67" width="122" height="15" font="2">- Non-controlling interests</text>
+<text top="852" left="388" width="25" height="15" font="2">(102)</text>
+<text top="852" left="326" width="64" height="15" font="2">                     </text>
+<text top="852" left="499" width="19" height="15" font="2">(91)</text>
+<text top="852" left="431" width="70" height="15" font="2">                       </text>
+<text top="852" left="646" width="25" height="15" font="2">(302)</text>
+<text top="852" left="584" width="64" height="15" font="2">                     </text>
+<text top="852" left="751" width="25" height="15" font="2">(243)</text>
+<text top="852" left="689" width="64" height="15" font="2">                     </text>
+<text top="870" left="383" width="27" height="15" font="2">6,191</text>
+<text top="870" left="326" width="58" height="15" font="2">                   </text>
+<text top="870" left="488" width="27" height="15" font="2">4,604</text>
+<text top="870" left="431" width="58" height="15" font="2">                   </text>
+<text top="870" left="635" width="33" height="15" font="2">14,687</text>
+<text top="870" left="584" width="52" height="15" font="2">                 </text>
+<text top="870" left="740" width="33" height="15" font="2">11,660</text>
+<text top="870" left="689" width="52" height="15" font="2">                 </text>
+<text top="904" left="67" width="201" height="15" font="2">Earnings per share (&#34;EPS&#34;) attributable to </text>
+<text top="920" left="67" width="126" height="15" font="2">   owners of the Company:</text>
+<text top="936" left="67" width="85" height="15" font="2">- Basic EPS (sen)</text>
+<text top="936" left="292" width="19" height="15" font="2">B12</text>
+<text top="936" left="389" width="21" height="15" font="2">1.00</text>
+<text top="936" left="326" width="64" height="15" font="2">                     </text>
+<text top="936" left="494" width="21" height="15" font="2">0.39</text>
+<text top="936" left="431" width="64" height="15" font="2">                     </text>
+<text top="936" left="647" width="21" height="15" font="2">2.62</text>
+<text top="936" left="584" width="64" height="15" font="2">                     </text>
+<text top="936" left="752" width="21" height="15" font="2">1.94</text>
+<text top="936" left="689" width="64" height="15" font="2">                     </text>
+<text top="953" left="67" width="92" height="15" font="2">- Diluted EPS (sen)</text>
+<text top="953" left="292" width="19" height="15" font="2">B12</text>
+<text top="953" left="389" width="21" height="15" font="2">0.80</text>
+<text top="953" left="326" width="64" height="15" font="2">                     </text>
+<text top="953" left="494" width="21" height="15" font="2">0.39</text>
+<text top="953" left="431" width="64" height="15" font="2">                     </text>
+<text top="953" left="647" width="21" height="15" font="2">2.08</text>
+<text top="953" left="752" width="21" height="15" font="2">1.94</text>
+<text top="953" left="689" width="64" height="15" font="2">                     </text>
+<text top="151" left="407" width="75" height="15" font="2">Quarter Ended</text>
+<text top="151" left="652" width="103" height="15" font="2">Year-To-Date Ended</text>
+<text top="1022" left="67" width="756" height="15" font="2">The Unaudited Condensed Consolidated Statement of Profit or Loss and Other Comprehensive Income should be read in conjunction with the Annual Audited</text>
+<text top="1038" left="67" width="756" height="15" font="2">Financial Statements of the Group for the financial year ended 31 December 2018 and the accompanying explanatory notes attached to the interim financial</text>
+<text top="1055" left="67" width="56" height="15" font="2">statements.</text>
+<text top="1211" left="842" width="7" height="15" font="2">3</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="3" size="12" family="Times" color="#000000"/>
+<text top="65" left="80" width="199" height="16" font="3">N2N CONNECT BERHAD (523137-K)</text>
+<text top="83" left="80" width="135" height="16" font="3">(Incorporated in Malaysia)</text>
+<text top="100" left="80" width="463" height="16" font="3">UNAUDITED CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION</text>
+<text top="118" left="80" width="156" height="16" font="3">AS AT 30 SEPTEMBER 2019</text>
+<text top="153" left="659" width="28" height="16" font="3">As at</text>
+<text top="153" left="775" width="28" height="16" font="3">As at</text>
+<text top="171" left="617" width="71" height="16" font="3">30 Sept 2019</text>
+<text top="171" left="737" width="67" height="16" font="3">31 Dec 2018</text>
+<text top="188" left="555" width="26" height="16" font="3">Note</text>
+<text top="188" left="648" width="40" height="16" font="3">RM'000</text>
+<text top="188" left="763" width="40" height="16" font="3">RM'000</text>
+<text top="206" left="611" width="77" height="16" font="3">(UNAUDITED)</text>
+<text top="206" left="744" width="60" height="16" font="3">(AUDITED)</text>
+<text top="241" left="80" width="47" height="16" font="3">ASSETS</text>
+<text top="259" left="80" width="107" height="16" font="3">Non-current assets</text>
+<text top="277" left="80" width="156" height="16" font="3">Property, plant and equipment</text>
+<text top="277" left="652" width="36" height="16" font="3">32,533</text>
+<text top="277" left="600" width="55" height="16" font="3">                 </text>
+<text top="277" left="768" width="36" height="16" font="3">33,425</text>
+<text top="277" left="716" width="55" height="16" font="3">                 </text>
+<text top="295" left="80" width="112" height="16" font="3">Investment properties</text>
+<text top="295" left="652" width="36" height="16" font="3">10,021</text>
+<text top="295" left="600" width="55" height="16" font="3">                 </text>
+<text top="295" left="768" width="36" height="16" font="3">10,197</text>
+<text top="295" left="716" width="55" height="16" font="3">                 </text>
+<text top="312" left="80" width="87" height="16" font="3">Intangible assets</text>
+<text top="312" left="652" width="36" height="16" font="3">76,985</text>
+<text top="312" left="600" width="55" height="16" font="3">                 </text>
+<text top="312" left="768" width="36" height="16" font="3">75,105</text>
+<text top="312" left="716" width="55" height="16" font="3">                 </text>
+<text top="330" left="80" width="127" height="16" font="3">Investment in associates</text>
+<text top="330" left="659" width="29" height="16" font="3">7,918</text>
+<text top="330" left="600" width="61" height="16" font="3">                   </text>
+<text top="330" left="774" width="29" height="16" font="3">8,043</text>
+<text top="330" left="716" width="61" height="16" font="3">                   </text>
+<text top="347" left="646" width="42" height="16" font="3">127,457</text>
+<text top="347" left="600" width="49" height="16" font="3">               </text>
+<text top="347" left="762" width="42" height="16" font="3">126,770</text>
+<text top="347" left="716" width="49" height="16" font="3">               </text>
+<text top="365" left="80" width="82" height="16" font="3">Current assets</text>
+<text top="383" left="80" width="93" height="16" font="3">Trade receivables</text>
+<text top="383" left="652" width="36" height="16" font="3">26,208</text>
+<text top="383" left="600" width="55" height="16" font="3">                 </text>
+<text top="383" left="768" width="36" height="16" font="3">16,661</text>
+<text top="383" left="716" width="55" height="16" font="3">                 </text>
+<text top="400" left="80" width="94" height="16" font="3">Other receivables </text>
+<text top="400" left="558" width="21" height="16" font="3">A11</text>
+<text top="400" left="659" width="29" height="16" font="3">9,425</text>
+<text top="400" left="600" width="61" height="16" font="3">                   </text>
+<text top="400" left="774" width="29" height="16" font="3">7,165</text>
+<text top="400" left="716" width="61" height="16" font="3">                   </text>
+<text top="418" left="80" width="188" height="16" font="3">Amount owing by related companies</text>
+<text top="418" left="668" width="19" height="16" font="3">283</text>
+<text top="418" left="600" width="71" height="16" font="3">                      </text>
+<text top="418" left="784" width="19" height="16" font="3">409</text>
+<text top="418" left="716" width="71" height="16" font="3">                      </text>
+<text top="436" left="80" width="158" height="16" font="3">Amount owing by an associate</text>
+<text top="436" left="659" width="29" height="16" font="3">1,229</text>
+<text top="436" left="600" width="61" height="16" font="3">                   </text>
+<text top="436" left="784" width="19" height="16" font="3">681</text>
+<text top="436" left="716" width="71" height="16" font="3">                      </text>
+<text top="453" left="80" width="84" height="16" font="3">Tax recoverable</text>
+<text top="453" left="669" width="19" height="16" font="3">255</text>
+<text top="453" left="600" width="71" height="16" font="3">                      </text>
+<text top="453" left="784" width="19" height="16" font="3">432</text>
+<text top="453" left="716" width="71" height="16" font="3">                      </text>
+<text top="471" left="80" width="110" height="16" font="3">Marketable securities</text>
+<text top="471" left="561" width="14" height="16" font="3">B7</text>
+<text top="471" left="652" width="36" height="16" font="3">81,792</text>
+<text top="471" left="600" width="55" height="16" font="3">                 </text>
+<text top="471" left="768" width="36" height="16" font="3">52,045</text>
+<text top="471" left="716" width="55" height="16" font="3">                 </text>
+<text top="489" left="80" width="256" height="16" font="3">Financial assets at fair value through profit or loss</text>
+<text top="489" left="558" width="21" height="16" font="3">A13</text>
+<text top="489" left="668" width="19" height="16" font="3">121</text>
+<text top="489" left="600" width="71" height="16" font="3">                      </text>
+<text top="489" left="784" width="19" height="16" font="3">114</text>
+<text top="489" left="716" width="71" height="16" font="3">                      </text>
+<text top="506" left="80" width="143" height="16" font="3">Deposits with licensed bank</text>
+<text top="506" left="669" width="19" height="16" font="3">349</text>
+<text top="506" left="600" width="71" height="16" font="3">                      </text>
+<text top="506" left="784" width="19" height="16" font="3">341</text>
+<text top="506" left="716" width="71" height="16" font="3">                      </text>
+<text top="524" left="80" width="128" height="16" font="3">Cash and bank balances</text>
+<text top="524" left="652" width="36" height="16" font="3">54,656</text>
+<text top="524" left="600" width="55" height="16" font="3">                 </text>
+<text top="524" left="762" width="42" height="16" font="3">101,576</text>
+<text top="524" left="716" width="49" height="16" font="3">               </text>
+<text top="541" left="646" width="42" height="16" font="3">174,318</text>
+<text top="541" left="600" width="49" height="16" font="3">               </text>
+<text top="541" left="762" width="42" height="16" font="3">179,424</text>
+<text top="541" left="716" width="49" height="16" font="3">               </text>
+<text top="557" left="80" width="89" height="16" font="3">TOTAL ASSETS</text>
+<text top="558" left="646" width="42" height="16" font="3">301,775</text>
+<text top="558" left="600" width="49" height="16" font="3">               </text>
+<text top="558" left="762" width="42" height="16" font="3">306,194</text>
+<text top="558" left="716" width="49" height="16" font="3">               </text>
+<text top="594" left="80" width="142" height="16" font="3">EQUITY AND LIABILITIES</text>
+<text top="612" left="80" width="66" height="16" font="3">Total equity</text>
+<text top="630" left="80" width="68" height="16" font="3">Share capital</text>
+<text top="630" left="646" width="42" height="16" font="3">260,987</text>
+<text top="630" left="600" width="49" height="16" font="3">               </text>
+<text top="630" left="762" width="42" height="16" font="3">260,987</text>
+<text top="630" left="716" width="49" height="16" font="3">               </text>
+<text top="647" left="80" width="84" height="16" font="3">Treasury shares</text>
+<text top="647" left="648" width="43" height="16" font="3">(37,198)</text>
+<text top="647" left="600" width="49" height="16" font="3">               </text>
+<text top="647" left="764" width="44" height="16" font="3">(35,542)</text>
+<text top="647" left="716" width="49" height="16" font="3">               </text>
+<text top="665" left="80" width="94" height="16" font="3">Exchange reserve</text>
+<text top="665" left="655" width="37" height="16" font="3">(6,680)</text>
+<text top="665" left="600" width="55" height="16" font="3">                 </text>
+<text top="665" left="771" width="37" height="16" font="3">(7,563)</text>
+<text top="665" left="716" width="55" height="16" font="3">                 </text>
+<text top="683" left="80" width="82" height="16" font="3">Retained profits</text>
+<text top="683" left="652" width="36" height="16" font="3">39,075</text>
+<text top="683" left="600" width="55" height="16" font="3">                 </text>
+<text top="683" left="768" width="36" height="16" font="3">30,551</text>
+<text top="683" left="716" width="55" height="16" font="3">                 </text>
+<text top="700" left="80" width="253" height="16" font="3">Equity attributable to owners of the Company</text>
+<text top="700" left="646" width="42" height="16" font="3">256,184</text>
+<text top="700" left="600" width="49" height="16" font="3">               </text>
+<text top="700" left="762" width="42" height="16" font="3">248,433</text>
+<text top="700" left="716" width="49" height="16" font="3">               </text>
+<text top="718" left="80" width="125" height="16" font="3">Non-controlling interests</text>
+<text top="718" left="665" width="27" height="16" font="3">(385)</text>
+<text top="718" left="600" width="65" height="16" font="3">                    </text>
+<text top="718" left="787" width="21" height="16" font="3">(83)</text>
+<text top="718" left="716" width="71" height="16" font="3">                      </text>
+<text top="736" left="646" width="42" height="16" font="3">255,799</text>
+<text top="736" left="600" width="49" height="16" font="3">               </text>
+<text top="736" left="762" width="42" height="16" font="3">248,350</text>
+<text top="736" left="716" width="49" height="16" font="3">               </text>
+<text top="770" left="80" width="120" height="16" font="3">Non-current liabilities</text>
+<text top="788" left="80" width="87" height="16" font="3">Bank borrowings</text>
+<text top="788" left="561" width="14" height="16" font="3">B8</text>
+<text top="788" left="652" width="36" height="16" font="3">13,967</text>
+<text top="788" left="600" width="55" height="16" font="3">                 </text>
+<text top="788" left="768" width="36" height="16" font="3">20,680</text>
+<text top="788" left="716" width="55" height="16" font="3">                 </text>
+<text top="806" left="80" width="164" height="16" font="3">Provision for retirement benefits</text>
+<text top="806" left="558" width="21" height="16" font="3">A14</text>
+<text top="806" left="659" width="29" height="16" font="3">2,530</text>
+<text top="806" left="600" width="61" height="16" font="3">                   </text>
+<text top="806" left="774" width="29" height="16" font="3">2,234</text>
+<text top="806" left="716" width="61" height="16" font="3">                   </text>
+<text top="824" left="80" width="111" height="16" font="3">Deferred tax liabilities</text>
+<text top="824" left="659" width="29" height="16" font="3">1,168</text>
+<text top="824" left="600" width="61" height="16" font="3">                   </text>
+<text top="824" left="774" width="29" height="16" font="3">1,158</text>
+<text top="824" left="716" width="61" height="16" font="3">                   </text>
+<text top="841" left="652" width="36" height="16" font="3">17,665</text>
+<text top="841" left="600" width="55" height="16" font="3">                 </text>
+<text top="841" left="768" width="36" height="16" font="3">24,072</text>
+<text top="841" left="716" width="55" height="16" font="3">                 </text>
+<text top="876" left="80" width="96" height="16" font="3">Current liabilities</text>
+<text top="894" left="80" width="80" height="16" font="3">Trade payables</text>
+<text top="894" left="659" width="29" height="16" font="3">6,571</text>
+<text top="894" left="600" width="61" height="16" font="3">                   </text>
+<text top="894" left="774" width="29" height="16" font="3">5,497</text>
+<text top="894" left="716" width="61" height="16" font="3">                   </text>
+<text top="912" left="80" width="79" height="16" font="3">Other payables</text>
+<text top="912" left="558" width="21" height="16" font="3">A12</text>
+<text top="912" left="659" width="29" height="16" font="3">9,484</text>
+<text top="912" left="600" width="61" height="16" font="3">                   </text>
+<text top="912" left="768" width="36" height="16" font="3">16,404</text>
+<text top="912" left="716" width="55" height="16" font="3">                 </text>
+<text top="930" left="80" width="185" height="16" font="3">Amount owing to related companies</text>
+<text top="930" left="669" width="19" height="16" font="3">108</text>
+<text top="930" left="600" width="71" height="16" font="3">                      </text>
+<text top="930" left="791" width="13" height="16" font="3">24</text>
+<text top="930" left="716" width="78" height="16" font="3">                        </text>
+<text top="947" left="80" width="87" height="16" font="3">Bank borrowings</text>
+<text top="947" left="561" width="14" height="16" font="3">B8</text>
+<text top="947" left="659" width="29" height="16" font="3">9,311</text>
+<text top="947" left="600" width="61" height="16" font="3">                   </text>
+<text top="947" left="774" width="29" height="16" font="3">9,191</text>
+<text top="947" left="716" width="61" height="16" font="3">                   </text>
+<text top="965" left="80" width="108" height="16" font="3">Provision for taxation</text>
+<text top="965" left="659" width="29" height="16" font="3">2,837</text>
+<text top="965" left="600" width="61" height="16" font="3">                   </text>
+<text top="965" left="774" width="29" height="16" font="3">2,656</text>
+<text top="965" left="716" width="61" height="16" font="3">                   </text>
+<text top="982" left="652" width="36" height="16" font="3">28,311</text>
+<text top="982" left="600" width="55" height="16" font="3">                 </text>
+<text top="982" left="768" width="36" height="16" font="3">33,772</text>
+<text top="982" left="716" width="55" height="16" font="3">                 </text>
+<text top="1000" left="80" width="81" height="16" font="3">Total liabilities</text>
+<text top="1000" left="652" width="36" height="16" font="3">45,976</text>
+<text top="1000" left="600" width="55" height="16" font="3">                 </text>
+<text top="1000" left="768" width="36" height="16" font="3">57,844</text>
+<text top="1000" left="716" width="55" height="16" font="3">                 </text>
+<text top="1016" left="80" width="185" height="16" font="3">TOTAL EQUITY AND LIABILITIES</text>
+<text top="1016" left="646" width="42" height="16" font="3">301,775</text>
+<text top="1016" left="600" width="49" height="16" font="3">               </text>
+<text top="1016" left="762" width="42" height="16" font="3">306,194</text>
+<text top="1016" left="716" width="49" height="16" font="3">               </text>
+<text top="1053" left="80" width="371" height="16" font="3">Net assets per share attributable to owners of the Company (sen) *</text>
+<text top="1053" left="675" width="13" height="16" font="3">46</text>
+<text top="1053" left="600" width="78" height="16" font="3">                        </text>
+<text top="1053" left="791" width="13" height="16" font="3">44</text>
+<text top="1053" left="716" width="78" height="16" font="3">                        </text>
+<text top="1088" left="80" width="30" height="16" font="3">Note:</text>
+<text top="1106" left="80" width="303" height="16" font="3">*  Based on number of shares net of treasury shares ('000)</text>
+<text top="1142" left="80" width="726" height="16" font="3">The above Condensed Consolidated Statement of Financial Position should be read in conjunction with the Annual Audited Financial</text>
+<text top="1160" left="80" width="726" height="16" font="3">Statements of the Group for the financial year ended 31 December 2018 and the accompanying explanatory notes attached to the interim</text>
+<text top="1179" left="80" width="106" height="16" font="3">financial statements.</text>
+<text top="1210" left="807" width="8" height="16" font="3">4</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="892" width="1262">
+<text top="65" left="67" width="199" height="16" font="3">N2N CONNECT BERHAD (523137-K)</text>
+<text top="83" left="67" width="135" height="16" font="3">(Incorporated in Malaysia)</text>
+<text top="100" left="67" width="461" height="16" font="3">UNAUDITED CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN EQUITY</text>
+<text top="118" left="67" width="398" height="16" font="3">FOR THE QUARTER AND YEAR-TO-DATE ENDED 30 SEPTEMBER 2019</text>
+<text top="171" left="835" width="72" height="16" font="3">Distributable</text>
+<text top="171" left="1069" width="27" height="16" font="3">Non-</text>
+<text top="188" left="497" width="32" height="16" font="3">Share</text>
+<text top="188" left="575" width="49" height="16" font="3">Treasury</text>
+<text top="188" left="663" width="55" height="16" font="3">Exchange</text>
+<text top="188" left="762" width="51" height="16" font="3">Warrants</text>
+<text top="188" left="858" width="49" height="16" font="3">Retained</text>
+<text top="188" left="1033" width="63" height="16" font="3">Controlling</text>
+<text top="188" left="1162" width="28" height="16" font="3">Total</text>
+<text top="206" left="491" width="39" height="16" font="3">Capital</text>
+<text top="206" left="585" width="39" height="16" font="3">Shares</text>
+<text top="206" left="673" width="45" height="16" font="3">Reserve</text>
+<text top="206" left="767" width="45" height="16" font="3">Reserve</text>
+<text top="206" left="870" width="37" height="16" font="3">Profits</text>
+<text top="206" left="973" width="28" height="16" font="3">Total</text>
+<text top="206" left="1047" width="49" height="16" font="3">Interests</text>
+<text top="206" left="1154" width="36" height="16" font="3">Equity</text>
+<text top="224" left="418" width="26" height="16" font="3">Note</text>
+<text top="224" left="489" width="40" height="16" font="3">RM'000</text>
+<text top="224" left="584" width="40" height="16" font="3">RM'000</text>
+<text top="224" left="678" width="40" height="16" font="3">RM'000</text>
+<text top="224" left="772" width="40" height="16" font="3">RM'000</text>
+<text top="224" left="867" width="40" height="16" font="3">RM'000</text>
+<text top="224" left="961" width="40" height="16" font="3">RM'000</text>
+<text top="224" left="1055" width="40" height="16" font="3">RM'000</text>
+<text top="224" left="1150" width="40" height="16" font="3">RM'000</text>
+<text top="259" left="67" width="99" height="16" font="3">At 1 January 2019</text>
+<text top="259" left="488" width="42" height="16" font="3">260,987</text>
+<text top="259" left="458" width="32" height="16" font="3">          </text>
+<text top="259" left="584" width="44" height="16" font="3">(35,542)</text>
+<text top="259" left="552" width="36" height="16" font="3">           </text>
+<text top="259" left="685" width="37" height="16" font="3">(7,563)</text>
+<text top="259" left="647" width="42" height="16" font="3">             </text>
+<text top="259" left="796" width="4" height="16" font="3">-</text>
+<text top="259" left="741" width="58" height="16" font="3">                  </text>
+<text top="259" left="871" width="36" height="16" font="3">30,551</text>
+<text top="259" left="835" width="39" height="16" font="3">            </text>
+<text top="259" left="959" width="42" height="16" font="3">248,433</text>
+<text top="259" left="930" width="32" height="16" font="3">          </text>
+<text top="259" left="1079" width="21" height="16" font="3">(83)</text>
+<text top="259" left="1024" width="58" height="16" font="3">                  </text>
+<text top="259" left="1148" width="42" height="16" font="3">248,350</text>
+<text top="259" left="1118" width="32" height="16" font="3">          </text>
+<text top="295" left="67" width="99" height="16" font="3">Profit for the period</text>
+<text top="295" left="513" width="4" height="16" font="3">-</text>
+<text top="295" left="458" width="58" height="16" font="3">                  </text>
+<text top="295" left="607" width="4" height="16" font="3">-</text>
+<text top="295" left="552" width="58" height="16" font="3">                  </text>
+<text top="295" left="701" width="4" height="16" font="3">-</text>
+<text top="295" left="647" width="58" height="16" font="3">                  </text>
+<text top="295" left="796" width="4" height="16" font="3">-</text>
+<text top="295" left="741" width="58" height="16" font="3">                  </text>
+<text top="295" left="871" width="36" height="16" font="3">14,106</text>
+<text top="295" left="835" width="39" height="16" font="3">            </text>
+<text top="295" left="966" width="36" height="16" font="3">14,106</text>
+<text top="295" left="930" width="39" height="16" font="3">            </text>
+<text top="295" left="1072" width="27" height="16" font="3">(302)</text>
+<text top="295" left="1024" width="52" height="16" font="3">                </text>
+<text top="295" left="1154" width="36" height="16" font="3">13,804</text>
+<text top="295" left="1119" width="39" height="16" font="3">            </text>
+<text top="312" left="67" width="152" height="16" font="3">Other comprehensive income</text>
+<text top="312" left="513" width="4" height="16" font="3">-</text>
+<text top="312" left="458" width="58" height="16" font="3">                  </text>
+<text top="312" left="607" width="4" height="16" font="3">-</text>
+<text top="312" left="552" width="58" height="16" font="3">                  </text>
+<text top="312" left="699" width="19" height="16" font="3">883</text>
+<text top="312" left="647" width="55" height="16" font="3">                 </text>
+<text top="312" left="796" width="4" height="16" font="3">-</text>
+<text top="312" left="741" width="58" height="16" font="3">                  </text>
+<text top="312" left="890" width="4" height="16" font="3">-</text>
+<text top="312" left="835" width="58" height="16" font="3">                  </text>
+<text top="312" left="982" width="19" height="16" font="3">883</text>
+<text top="312" left="930" width="55" height="16" font="3">                 </text>
+<text top="312" left="1079" width="4" height="16" font="3">-</text>
+<text top="312" left="1024" width="58" height="16" font="3">                  </text>
+<text top="312" left="1171" width="19" height="16" font="3">883</text>
+<text top="312" left="1119" width="55" height="16" font="3">                 </text>
+<text top="330" left="67" width="221" height="16" font="3">Total comprehensive income for the period</text>
+<text top="330" left="513" width="4" height="16" font="3">-</text>
+<text top="330" left="458" width="58" height="16" font="3">                  </text>
+<text top="330" left="607" width="4" height="16" font="3">-</text>
+<text top="330" left="552" width="58" height="16" font="3">                  </text>
+<text top="330" left="699" width="19" height="16" font="3">883</text>
+<text top="330" left="647" width="55" height="16" font="3">                 </text>
+<text top="330" left="796" width="4" height="16" font="3">-</text>
+<text top="330" left="741" width="58" height="16" font="3">                  </text>
+<text top="330" left="871" width="36" height="16" font="3">14,106</text>
+<text top="330" left="835" width="39" height="16" font="3">            </text>
+<text top="330" left="966" width="36" height="16" font="3">14,989</text>
+<text top="330" left="930" width="39" height="16" font="3">            </text>
+<text top="330" left="1072" width="27" height="16" font="3">(302)</text>
+<text top="330" left="1024" width="52" height="16" font="3">                </text>
+<text top="330" left="1154" width="36" height="16" font="3">14,687</text>
+<text top="330" left="1118" width="39" height="16" font="3">            </text>
+<text top="365" left="67" width="76" height="16" font="3">Dividends paid</text>
+<text top="365" left="429" width="3" height="16" font="3">i</text>
+<text top="365" left="513" width="4" height="16" font="3">-</text>
+<text top="365" left="458" width="58" height="16" font="3">                  </text>
+<text top="365" left="702" width="4" height="16" font="3">-</text>
+<text top="365" left="647" width="58" height="16" font="3">                  </text>
+<text top="365" left="796" width="4" height="16" font="3">-</text>
+<text top="365" left="741" width="58" height="16" font="3">                  </text>
+<text top="365" left="874" width="37" height="16" font="3">(5,582)</text>
+<text top="365" left="835" width="42" height="16" font="3">             </text>
+<text top="365" left="968" width="37" height="16" font="3">(5,582)</text>
+<text top="365" left="930" width="42" height="16" font="3">             </text>
+<text top="365" left="1079" width="4" height="16" font="3">-</text>
+<text top="365" left="1024" width="58" height="16" font="3">                  </text>
+<text top="365" left="1157" width="37" height="16" font="3">(5,582)</text>
+<text top="365" left="1118" width="42" height="16" font="3">             </text>
+<text top="400" left="67" width="314" height="16" font="3">Share repurchased during the period held as treasury shares</text>
+<text top="400" left="513" width="4" height="16" font="3">-</text>
+<text top="400" left="458" width="58" height="16" font="3">                  </text>
+<text top="400" left="591" width="37" height="16" font="3">(1,656)</text>
+<text top="400" left="552" width="42" height="16" font="3">             </text>
+<text top="400" left="701" width="4" height="16" font="3">-</text>
+<text top="400" left="647" width="58" height="16" font="3">                  </text>
+<text top="400" left="796" width="4" height="16" font="3">-</text>
+<text top="400" left="741" width="58" height="16" font="3">                  </text>
+<text top="400" left="890" width="4" height="16" font="3">-</text>
+<text top="400" left="835" width="58" height="16" font="3">                  </text>
+<text top="400" left="968" width="37" height="16" font="3">(1,656)</text>
+<text top="400" left="930" width="42" height="16" font="3">             </text>
+<text top="400" left="1079" width="4" height="16" font="3">-</text>
+<text top="400" left="1024" width="58" height="16" font="3">                  </text>
+<text top="400" left="1157" width="37" height="16" font="3">(1,656)</text>
+<text top="400" left="1118" width="42" height="16" font="3">             </text>
+<text top="435" left="67" width="121" height="16" font="3">At 30 September 2019</text>
+<text top="436" left="488" width="42" height="16" font="3">260,987</text>
+<text top="436" left="458" width="32" height="16" font="3">          </text>
+<text top="436" left="584" width="44" height="16" font="3">(37,198)</text>
+<text top="436" left="552" width="36" height="16" font="3">           </text>
+<text top="436" left="685" width="37" height="16" font="3">(6,680)</text>
+<text top="436" left="647" width="42" height="16" font="3">             </text>
+<text top="436" left="796" width="4" height="16" font="3">-</text>
+<text top="436" left="741" width="58" height="16" font="3">                  </text>
+<text top="436" left="871" width="36" height="16" font="3">39,075</text>
+<text top="436" left="835" width="39" height="16" font="3">            </text>
+<text top="436" left="959" width="42" height="16" font="3">256,184</text>
+<text top="436" left="930" width="32" height="16" font="3">          </text>
+<text top="436" left="1072" width="27" height="16" font="3">(385)</text>
+<text top="436" left="1024" width="52" height="16" font="3">                </text>
+<text top="436" left="1148" width="42" height="16" font="3">255,799</text>
+<text top="436" left="1118" width="32" height="16" font="3">          </text>
+<text top="488" left="67" width="99" height="16" font="3">At 1 January 2018</text>
+<text top="489" left="488" width="42" height="16" font="3">163,641</text>
+<text top="489" left="458" width="32" height="16" font="3">          </text>
+<text top="489" left="591" width="37" height="16" font="3">(5,832)</text>
+<text top="489" left="552" width="42" height="16" font="3">             </text>
+<text top="489" left="685" width="37" height="16" font="3">(8,233)</text>
+<text top="489" left="647" width="42" height="16" font="3">             </text>
+<text top="489" left="783" width="29" height="16" font="3">1,383</text>
+<text top="489" left="741" width="45" height="16" font="3">              </text>
+<text top="489" left="871" width="36" height="16" font="3">38,563</text>
+<text top="489" left="835" width="39" height="16" font="3">            </text>
+<text top="489" left="959" width="42" height="16" font="3">189,522</text>
+<text top="489" left="930" width="32" height="16" font="3">          </text>
+<text top="489" left="1076" width="19" height="16" font="3">282</text>
+<text top="489" left="1024" width="55" height="16" font="3">                 </text>
+<text top="489" left="1148" width="42" height="16" font="3">189,804</text>
+<text top="489" left="1118" width="32" height="16" font="3">          </text>
+<text top="506" left="67" width="142" height="16" font="3">Effects of MFRS 9 adoption</text>
+<text top="506" left="513" width="4" height="16" font="3">-</text>
+<text top="506" left="458" width="58" height="16" font="3">                  </text>
+<text top="506" left="607" width="4" height="16" font="3">-</text>
+<text top="506" left="552" width="58" height="16" font="3">                  </text>
+<text top="506" left="701" width="4" height="16" font="3">-</text>
+<text top="506" left="647" width="58" height="16" font="3">                  </text>
+<text top="506" left="796" width="4" height="16" font="3">-</text>
+<text top="506" left="741" width="58" height="16" font="3">                  </text>
+<text top="506" left="884" width="27" height="16" font="3">(259)</text>
+<text top="506" left="835" width="52" height="16" font="3">                </text>
+<text top="506" left="978" width="27" height="16" font="3">(259)</text>
+<text top="506" left="929" width="52" height="16" font="3">                </text>
+<text top="506" left="1079" width="4" height="16" font="3">-</text>
+<text top="506" left="1024" width="58" height="16" font="3">                  </text>
+<text top="506" left="1167" width="27" height="16" font="3">(259)</text>
+<text top="506" left="1118" width="52" height="16" font="3">                </text>
+<text top="524" left="67" width="156" height="16" font="3">At 1 January 2018 (restated)</text>
+<text top="524" left="488" width="42" height="16" font="3">163,641</text>
+<text top="524" left="458" width="32" height="16" font="3">          </text>
+<text top="524" left="591" width="37" height="16" font="3">(5,832)</text>
+<text top="524" left="552" width="42" height="16" font="3">             </text>
+<text top="524" left="685" width="37" height="16" font="3">(8,233)</text>
+<text top="524" left="647" width="42" height="16" font="3">             </text>
+<text top="524" left="783" width="29" height="16" font="3">1,383</text>
+<text top="524" left="741" width="45" height="16" font="3">              </text>
+<text top="524" left="871" width="36" height="16" font="3">38,304</text>
+<text top="524" left="835" width="39" height="16" font="3">            </text>
+<text top="524" left="959" width="42" height="16" font="3">189,263</text>
+<text top="524" left="930" width="32" height="16" font="3">          </text>
+<text top="524" left="1076" width="19" height="16" font="3">282</text>
+<text top="524" left="1024" width="55" height="16" font="3">                 </text>
+<text top="524" left="1148" width="42" height="16" font="3">189,545</text>
+<text top="524" left="1118" width="32" height="16" font="3">          </text>
+<text top="559" left="67" width="99" height="16" font="3">Profit for the period</text>
+<text top="559" left="513" width="4" height="16" font="3">-</text>
+<text top="559" left="458" width="58" height="16" font="3">                  </text>
+<text top="559" left="607" width="4" height="16" font="3">-</text>
+<text top="559" left="552" width="58" height="16" font="3">                  </text>
+<text top="559" left="701" width="4" height="16" font="3">-</text>
+<text top="559" left="647" width="58" height="16" font="3">                  </text>
+<text top="559" left="796" width="4" height="16" font="3">-</text>
+<text top="559" left="741" width="58" height="16" font="3">                  </text>
+<text top="559" left="871" width="36" height="16" font="3">10,288</text>
+<text top="559" left="835" width="39" height="16" font="3">            </text>
+<text top="559" left="966" width="36" height="16" font="3">10,288</text>
+<text top="559" left="930" width="39" height="16" font="3">            </text>
+<text top="559" left="1072" width="27" height="16" font="3">(243)</text>
+<text top="559" left="1024" width="52" height="16" font="3">                </text>
+<text top="559" left="1154" width="36" height="16" font="3">10,045</text>
+<text top="559" left="1119" width="39" height="16" font="3">            </text>
+<text top="577" left="67" width="152" height="16" font="3">Other comprehensive income</text>
+<text top="577" left="513" width="4" height="16" font="3">-</text>
+<text top="577" left="458" width="58" height="16" font="3">                  </text>
+<text top="577" left="607" width="4" height="16" font="3">-</text>
+<text top="577" left="552" width="58" height="16" font="3">                  </text>
+<text top="577" left="689" width="29" height="16" font="3">1,615</text>
+<text top="577" left="647" width="45" height="16" font="3">              </text>
+<text top="577" left="796" width="4" height="16" font="3">-</text>
+<text top="577" left="741" width="58" height="16" font="3">                  </text>
+<text top="577" left="890" width="4" height="16" font="3">-</text>
+<text top="577" left="835" width="58" height="16" font="3">                  </text>
+<text top="577" left="972" width="29" height="16" font="3">1,615</text>
+<text top="577" left="930" width="45" height="16" font="3">              </text>
+<text top="577" left="1079" width="4" height="16" font="3">-</text>
+<text top="577" left="1024" width="58" height="16" font="3">                  </text>
+<text top="577" left="1161" width="29" height="16" font="3">1,615</text>
+<text top="577" left="1119" width="45" height="16" font="3">              </text>
+<text top="594" left="67" width="221" height="16" font="3">Total comprehensive income for the period</text>
+<text top="594" left="513" width="4" height="16" font="3">-</text>
+<text top="594" left="458" width="58" height="16" font="3">                  </text>
+<text top="594" left="607" width="4" height="16" font="3">-</text>
+<text top="594" left="552" width="58" height="16" font="3">                  </text>
+<text top="594" left="689" width="29" height="16" font="3">1,615</text>
+<text top="594" left="647" width="45" height="16" font="3">              </text>
+<text top="594" left="796" width="4" height="16" font="3">-</text>
+<text top="594" left="741" width="58" height="16" font="3">                  </text>
+<text top="594" left="871" width="36" height="16" font="3">10,288</text>
+<text top="594" left="835" width="39" height="16" font="3">            </text>
+<text top="594" left="966" width="36" height="16" font="3">11,903</text>
+<text top="594" left="930" width="39" height="16" font="3">            </text>
+<text top="594" left="1072" width="27" height="16" font="3">(243)</text>
+<text top="594" left="1024" width="52" height="16" font="3">                </text>
+<text top="594" left="1154" width="36" height="16" font="3">11,660</text>
+<text top="594" left="1118" width="39" height="16" font="3">            </text>
+<text top="630" left="67" width="76" height="16" font="3">Dividends paid</text>
+<text top="630" left="428" width="5" height="16" font="3">ii</text>
+<text top="630" left="513" width="4" height="16" font="3">-</text>
+<text top="630" left="458" width="58" height="16" font="3">                  </text>
+<text top="630" left="607" width="4" height="16" font="3">-</text>
+<text top="630" left="552" width="58" height="16" font="3">                  </text>
+<text top="630" left="701" width="4" height="16" font="3">-</text>
+<text top="630" left="647" width="58" height="16" font="3">                  </text>
+<text top="630" left="796" width="4" height="16" font="3">-</text>
+<text top="630" left="741" width="58" height="16" font="3">                  </text>
+<text top="630" left="867" width="43" height="16" font="3">(15,785)</text>
+<text top="630" left="835" width="36" height="16" font="3">           </text>
+<text top="630" left="962" width="43" height="16" font="3">(15,785)</text>
+<text top="630" left="929" width="36" height="16" font="3">           </text>
+<text top="630" left="1079" width="4" height="16" font="3">-</text>
+<text top="630" left="1024" width="58" height="16" font="3">                  </text>
+<text top="630" left="1150" width="43" height="16" font="3">(15,785)</text>
+<text top="630" left="1118" width="36" height="16" font="3">           </text>
+<text top="665" left="67" width="310" height="16" font="3">Shares repurchased during the year held as treasury shares</text>
+<text top="665" left="513" width="4" height="16" font="3">-</text>
+<text top="665" left="458" width="58" height="16" font="3">                  </text>
+<text top="665" left="584" width="43" height="16" font="3">(20,218)</text>
+<text top="665" left="552" width="36" height="16" font="3">           </text>
+<text top="665" left="701" width="4" height="16" font="3">-</text>
+<text top="665" left="647" width="58" height="16" font="3">                  </text>
+<text top="665" left="796" width="4" height="16" font="3">-</text>
+<text top="665" left="741" width="58" height="16" font="3">                  </text>
+<text top="665" left="890" width="4" height="16" font="3">-</text>
+<text top="665" left="835" width="58" height="16" font="3">                  </text>
+<text top="665" left="962" width="43" height="16" font="3">(20,218)</text>
+<text top="665" left="930" width="36" height="16" font="3">           </text>
+<text top="665" left="1079" width="4" height="16" font="3">-</text>
+<text top="665" left="1024" width="58" height="16" font="3">                  </text>
+<text top="665" left="1150" width="43" height="16" font="3">(20,218)</text>
+<text top="665" left="1118" width="36" height="16" font="3">           </text>
+<text top="700" left="67" width="162" height="16" font="3">Issuance of shares pursuant to:</text>
+<text top="718" left="67" width="117" height="16" font="3">- exercise of Warrants </text>
+<text top="718" left="427" width="8" height="16" font="3">iii</text>
+<text top="718" left="494" width="36" height="16" font="3">32,294</text>
+<text top="718" left="458" width="39" height="16" font="3">            </text>
+<text top="718" left="607" width="4" height="16" font="3">-</text>
+<text top="718" left="552" width="58" height="16" font="3">                  </text>
+<text top="718" left="701" width="4" height="16" font="3">-</text>
+<text top="718" left="647" width="58" height="16" font="3">                  </text>
+<text top="718" left="780" width="37" height="16" font="3">(1,374)</text>
+<text top="718" left="741" width="42" height="16" font="3">             </text>
+<text top="718" left="890" width="4" height="16" font="3">-</text>
+<text top="718" left="835" width="58" height="16" font="3">                  </text>
+<text top="718" left="966" width="36" height="16" font="3">30,920</text>
+<text top="718" left="930" width="39" height="16" font="3">            </text>
+<text top="718" left="1079" width="4" height="16" font="3">-</text>
+<text top="718" left="1024" width="58" height="16" font="3">                  </text>
+<text top="718" left="1154" width="36" height="16" font="3">30,920</text>
+<text top="718" left="1118" width="39" height="16" font="3">            </text>
+<text top="736" left="67" width="99" height="16" font="3">- private placement</text>
+<text top="736" left="426" width="8" height="16" font="3">iv</text>
+<text top="736" left="494" width="36" height="16" font="3">65,052</text>
+<text top="736" left="458" width="39" height="16" font="3">            </text>
+<text top="736" left="607" width="4" height="16" font="3">-</text>
+<text top="736" left="552" width="58" height="16" font="3">                  </text>
+<text top="736" left="701" width="4" height="16" font="3">-</text>
+<text top="736" left="647" width="58" height="16" font="3">                  </text>
+<text top="736" left="796" width="4" height="16" font="3">-</text>
+<text top="736" left="741" width="58" height="16" font="3">                  </text>
+<text top="736" left="890" width="4" height="16" font="3">-</text>
+<text top="736" left="835" width="58" height="16" font="3">                  </text>
+<text top="736" left="966" width="36" height="16" font="3">65,052</text>
+<text top="736" left="930" width="39" height="16" font="3">            </text>
+<text top="736" left="1079" width="4" height="16" font="3">-</text>
+<text top="736" left="1024" width="58" height="16" font="3">                  </text>
+<text top="736" left="1154" width="36" height="16" font="3">65,052</text>
+<text top="736" left="1118" width="39" height="16" font="3">            </text>
+<text top="771" left="67" width="276" height="16" font="3">Transfer of unexercised warrants reserve upon expiry</text>
+<text top="771" left="513" width="4" height="16" font="3">-</text>
+<text top="771" left="458" width="58" height="16" font="3">                  </text>
+<text top="771" left="607" width="4" height="16" font="3">-</text>
+<text top="771" left="552" width="58" height="16" font="3">                  </text>
+<text top="771" left="701" width="4" height="16" font="3">-</text>
+<text top="771" left="647" width="58" height="16" font="3">                  </text>
+<text top="771" left="802" width="14" height="16" font="3">(9)</text>
+<text top="771" left="741" width="65" height="16" font="3">                    </text>
+<text top="771" left="901" width="6" height="16" font="3">9</text>
+<text top="771" left="835" width="68" height="16" font="3">                     </text>
+<text top="771" left="984" width="4" height="16" font="3">-</text>
+<text top="771" left="930" width="58" height="16" font="3">                  </text>
+<text top="771" left="1079" width="4" height="16" font="3">-</text>
+<text top="771" left="1024" width="58" height="16" font="3">                  </text>
+<text top="771" left="1173" width="4" height="16" font="3">-</text>
+<text top="771" left="1118" width="58" height="16" font="3">                  </text>
+<text top="806" left="67" width="121" height="16" font="3">At 30 September 2018</text>
+<text top="806" left="488" width="42" height="16" font="3">260,987</text>
+<text top="806" left="458" width="32" height="16" font="3">          </text>
+<text top="806" left="584" width="44" height="16" font="3">(26,050)</text>
+<text top="806" left="552" width="36" height="16" font="3">           </text>
+<text top="806" left="685" width="37" height="16" font="3">(6,618)</text>
+<text top="806" left="647" width="42" height="16" font="3">             </text>
+<text top="806" left="796" width="4" height="16" font="3">-</text>
+<text top="806" left="741" width="58" height="16" font="3">                  </text>
+<text top="806" left="871" width="36" height="16" font="3">32,816</text>
+<text top="806" left="835" width="39" height="16" font="3">            </text>
+<text top="806" left="959" width="42" height="16" font="3">261,135</text>
+<text top="806" left="930" width="32" height="16" font="3">          </text>
+<text top="806" left="1083" width="13" height="16" font="3">39</text>
+<text top="806" left="1024" width="61" height="16" font="3">                   </text>
+<text top="806" left="1148" width="42" height="16" font="3">261,174</text>
+<text top="806" left="1118" width="32" height="16" font="3">          </text>
+<text top="153" left="622" width="216" height="16" font="3">Attributable to owners of the Company</text>
+<text top="171" left="588" width="97" height="16" font="3">Non-distributable</text>
+<text top="840" left="1190" width="8" height="16" font="3">5</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="892" width="1262">
+	<fontspec id="4" size="12" family="Times" color="#ffffff"/>
+<text top="65" left="67" width="199" height="16" font="3">N2N CONNECT BERHAD (523137-K)</text>
+<text top="83" left="67" width="135" height="16" font="3">(Incorporated in Malaysia)</text>
+<text top="100" left="67" width="461" height="16" font="3">UNAUDITED CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN EQUITY</text>
+<text top="118" left="67" width="398" height="16" font="3">FOR THE QUARTER AND YEAR-TO-DATE ENDED 30 SEPTEMBER 2019</text>
+<text top="153" left="488" width="42" height="16" font="4">260,987</text>
+<text top="153" left="458" width="32" height="16" font="4">          </text>
+<text top="153" left="591" width="37" height="16" font="4">(7,563)</text>
+<text top="153" left="552" width="42" height="16" font="4">             </text>
+<text top="153" left="679" width="43" height="16" font="4">(35,542)</text>
+<text top="153" left="647" width="36" height="16" font="4">           </text>
+<text top="153" left="761" width="33" height="16" font="4">#REF!</text>
+<text top="153" left="871" width="36" height="16" font="4">30,551</text>
+<text top="153" left="835" width="39" height="16" font="4">            </text>
+<text top="153" left="959" width="42" height="16" font="4">248,433</text>
+<text top="153" left="930" width="32" height="16" font="4">          </text>
+<text top="153" left="1079" width="21" height="16" font="4">(83)</text>
+<text top="153" left="1024" width="58" height="16" font="4">                  </text>
+<text top="153" left="1148" width="42" height="16" font="4">248,350</text>
+<text top="153" left="1118" width="32" height="16" font="4">          </text>
+<text top="171" left="67" width="36" height="16" font="3">Notes:</text>
+<text top="189" left="67" width="10" height="16" font="3">(i)</text>
+<text top="189" left="97" width="819" height="16" font="3">The Company paid First Interim Dividend of 1 sen per share (Single Tier Dividend) in respect of the financial year ending 31 December 2019, on 26 June 2019.</text>
+<text top="224" left="67" width="13" height="16" font="3">(ii)</text>
+<text top="224" left="97" width="824" height="16" font="3">The Company paid First Interim Dividend of 3 sen per share (Single Tier Dividend) in respect of the financial year ended 31 December 2018, on 28 March 2018.</text>
+<text top="259" left="67" width="691" height="16" font="3">(iii) 68,711,512 new ordinary shares for cash pursuant to the conversion of Warrants at exercise price of RM0.45 per ordinary share.</text>
+<text top="295" left="67" width="566" height="16" font="3">(iv) Private placement of 52,041,431 new ordinary shares of RM1.25 per placement share on 14 June 2018.</text>
+<text top="330" left="67" width="1125" height="16" font="3">The above Condensed Consolidated Statement of Changes in Equity should be read in conjunction with the Annual Audited Financial Statements of the Group for the financial year ended 31 December 2018 and the</text>
+<text top="349" left="67" width="397" height="16" font="3">accompanying explanatory notes attached to the interim financial statements.</text>
+<text top="840" left="1190" width="8" height="16" font="3">6</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="82" left="83" width="171" height="14" font="1">N2N CONNECT BERHAD (523137-K)</text>
+<text top="97" left="83" width="116" height="14" font="1">(Incorporated in Malaysia)</text>
+<text top="112" left="83" width="359" height="14" font="1">UNAUDITED CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS</text>
+<text top="127" left="83" width="242" height="14" font="1">FOR YEAR-TO-DATE ENDED 30 SEPTEMBER 2019</text>
+<text top="173" left="514" width="61" height="14" font="1">30 Sept 2019</text>
+<text top="173" left="612" width="61" height="14" font="1">30 Sept 2018</text>
+<text top="188" left="541" width="35" height="14" font="1">RM'000</text>
+<text top="188" left="639" width="35" height="14" font="1">RM'000</text>
+<text top="203" left="509" width="66" height="14" font="1">(UNAUDITED)</text>
+<text top="203" left="608" width="66" height="14" font="1">(UNAUDITED)</text>
+<text top="233" left="83" width="173" height="14" font="1">Cash flows from operating activities</text>
+<text top="249" left="83" width="93" height="14" font="1">Profit before taxation</text>
+<text top="249" left="544" width="31" height="14" font="1">15,280</text>
+<text top="249" left="500" width="46" height="14" font="1">                </text>
+<text top="249" left="642" width="31" height="14" font="1">15,299</text>
+<text top="249" left="598" width="46" height="14" font="1">                </text>
+<text top="264" left="83" width="73" height="14" font="1">Adjustments for:</text>
+<text top="279" left="108" width="145" height="14" font="1">Amortisation of intangible assets</text>
+<text top="279" left="550" width="25" height="14" font="1">3,760</text>
+<text top="279" left="500" width="52" height="14" font="1">                  </text>
+<text top="278" left="648" width="25" height="14" font="1">3,052</text>
+<text top="278" left="598" width="52" height="14" font="1">                  </text>
+<text top="294" left="108" width="92" height="14" font="1">Bad debts written off</text>
+<text top="294" left="564" width="11" height="14" font="1">18</text>
+<text top="294" left="500" width="66" height="14" font="1">                       </text>
+<text top="293" left="659" width="3" height="14" font="1">-</text>
+<text top="293" left="598" width="63" height="14" font="1">                      </text>
+<text top="309" left="108" width="204" height="14" font="1">Depreciation of property, plant and equipment</text>
+<text top="309" left="550" width="25" height="14" font="1">4,197</text>
+<text top="309" left="500" width="52" height="14" font="1">                  </text>
+<text top="309" left="648" width="25" height="14" font="1">4,497</text>
+<text top="309" left="598" width="52" height="14" font="1">                  </text>
+<text top="324" left="108" width="167" height="14" font="1">Depreciation of investment properties</text>
+<text top="324" left="558" width="17" height="14" font="1">176</text>
+<text top="324" left="500" width="60" height="14" font="1">                     </text>
+<text top="324" left="656" width="17" height="14" font="1">176</text>
+<text top="324" left="598" width="60" height="14" font="1">                     </text>
+<text top="339" left="108" width="319" height="14" font="1">Fair value change on financial assets at fair value through profit or loss </text>
+<text top="339" left="566" width="12" height="14" font="1">(7)</text>
+<text top="339" left="500" width="69" height="14" font="1">                        </text>
+<text top="339" left="656" width="17" height="14" font="1">117</text>
+<text top="339" left="598" width="60" height="14" font="1">                     </text>
+<text top="354" left="108" width="223" height="14" font="1">Gain on disposal of property, plant and equipment</text>
+<text top="354" left="566" width="12" height="14" font="1">(4)</text>
+<text top="354" left="500" width="69" height="14" font="1">                        </text>
+<text top="354" left="659" width="18" height="14" font="1">(30)</text>
+<text top="354" left="598" width="63" height="14" font="1">                      </text>
+<text top="370" left="108" width="206" height="14" font="1">Allowance for impairment on trade receivables</text>
+<text top="370" left="564" width="11" height="14" font="1">67</text>
+<text top="370" left="500" width="66" height="14" font="1">                       </text>
+<text top="369" left="659" width="3" height="14" font="1">-</text>
+<text top="369" left="598" width="63" height="14" font="1">                      </text>
+<text top="385" left="108" width="182" height="14" font="1">Property, plant and equipment written off</text>
+<text top="385" left="561" width="3" height="14" font="1">-</text>
+<text top="385" left="500" width="63" height="14" font="1">                      </text>
+<text top="384" left="662" width="11" height="14" font="1">41</text>
+<text top="384" left="598" width="66" height="14" font="1">                       </text>
+<text top="400" left="108" width="159" height="14" font="1">Provision for long service payments</text>
+<text top="400" left="558" width="17" height="14" font="1">263</text>
+<text top="400" left="501" width="60" height="14" font="1">                     </text>
+<text top="399" left="656" width="17" height="14" font="1">266</text>
+<text top="399" left="598" width="60" height="14" font="1">                     </text>
+<text top="415" left="108" width="132" height="14" font="1">Share of results of associates</text>
+<text top="415" left="558" width="17" height="14" font="1">125</text>
+<text top="415" left="500" width="60" height="14" font="1">                     </text>
+<text top="414" left="656" width="17" height="14" font="1">135</text>
+<text top="414" left="598" width="60" height="14" font="1">                     </text>
+<text top="430" left="108" width="150" height="14" font="1">Unrealised foreign exchange gain</text>
+<text top="430" left="558" width="17" height="14" font="1">184</text>
+<text top="430" left="501" width="60" height="14" font="1">                     </text>
+<text top="430" left="656" width="17" height="14" font="1">403</text>
+<text top="430" left="598" width="60" height="14" font="1">                     </text>
+<text top="445" left="108" width="75" height="14" font="1">Interest expense</text>
+<text top="445" left="550" width="25" height="14" font="1">1,001</text>
+<text top="445" left="500" width="52" height="14" font="1">                  </text>
+<text top="445" left="648" width="25" height="14" font="1">1,431</text>
+<text top="445" left="598" width="52" height="14" font="1">                  </text>
+<text top="460" left="108" width="69" height="14" font="1">Interest income</text>
+<text top="460" left="555" width="23" height="14" font="1">(321)</text>
+<text top="460" left="500" width="58" height="14" font="1">                    </text>
+<text top="460" left="653" width="23" height="14" font="1">(586)</text>
+<text top="460" left="598" width="58" height="14" font="1">                    </text>
+<text top="475" left="108" width="74" height="14" font="1">Dividend income</text>
+<text top="475" left="546" width="32" height="14" font="1">(2,643)</text>
+<text top="475" left="500" width="49" height="14" font="1">                 </text>
+<text top="475" left="645" width="32" height="14" font="1">(1,480)</text>
+<text top="475" left="598" width="49" height="14" font="1">                 </text>
+<text top="491" left="83" width="211" height="14" font="1">Operating profit before working capital changes</text>
+<text top="491" left="544" width="31" height="14" font="1">22,096</text>
+<text top="491" left="500" width="46" height="14" font="1">                </text>
+<text top="491" left="642" width="31" height="14" font="1">23,321</text>
+<text top="491" left="598" width="46" height="14" font="1">                </text>
+<text top="521" left="83" width="120" height="14" font="1">Changes in working capital</text>
+<text top="536" left="108" width="80" height="14" font="1">Trade receivables</text>
+<text top="536" left="546" width="32" height="14" font="1">(9,561)</text>
+<text top="536" left="500" width="49" height="14" font="1">                 </text>
+<text top="535" left="645" width="32" height="14" font="1">(4,308)</text>
+<text top="535" left="598" width="49" height="14" font="1">                 </text>
+<text top="551" left="108" width="79" height="14" font="1">Other receivables</text>
+<text top="551" left="546" width="32" height="14" font="1">(2,260)</text>
+<text top="551" left="500" width="49" height="14" font="1">                 </text>
+<text top="551" left="645" width="32" height="14" font="1">(7,981)</text>
+<text top="551" left="598" width="49" height="14" font="1">                 </text>
+<text top="566" left="108" width="69" height="14" font="1">Trade payables</text>
+<text top="566" left="550" width="25" height="14" font="1">1,008</text>
+<text top="566" left="501" width="52" height="14" font="1">                  </text>
+<text top="566" left="656" width="17" height="14" font="1">437</text>
+<text top="566" left="598" width="60" height="14" font="1">                     </text>
+<text top="581" left="108" width="68" height="14" font="1">Other payables</text>
+<text top="581" left="546" width="32" height="14" font="1">(6,920)</text>
+<text top="581" left="500" width="49" height="14" font="1">                 </text>
+<text top="581" left="653" width="23" height="14" font="1">(352)</text>
+<text top="581" left="598" width="58" height="14" font="1">                    </text>
+<text top="596" left="108" width="173" height="14" font="1">Amount owing by/to related companies</text>
+<text top="596" left="558" width="17" height="14" font="1">210</text>
+<text top="596" left="501" width="60" height="14" font="1">                     </text>
+<text top="596" left="653" width="23" height="14" font="1">(146)</text>
+<text top="596" left="598" width="58" height="14" font="1">                    </text>
+<text top="612" left="108" width="148" height="14" font="1">Amount owing by/to an associate</text>
+<text top="612" left="555" width="23" height="14" font="1">(548)</text>
+<text top="612" left="500" width="58" height="14" font="1">                    </text>
+<text top="611" left="653" width="23" height="14" font="1">(672)</text>
+<text top="611" left="598" width="58" height="14" font="1">                    </text>
+<text top="627" left="108" width="198" height="14" font="1">Amount owing by/to a corporate shareholder</text>
+<text top="627" left="561" width="3" height="14" font="1">-</text>
+<text top="627" left="500" width="63" height="14" font="1">                      </text>
+<text top="626" left="645" width="32" height="14" font="1">(1,231)</text>
+<text top="626" left="598" width="49" height="14" font="1">                 </text>
+<text top="642" left="83" width="144" height="14" font="1">Cash generated from operations</text>
+<text top="642" left="550" width="25" height="14" font="1">4,025</text>
+<text top="642" left="500" width="52" height="14" font="1">                  </text>
+<text top="642" left="648" width="25" height="14" font="1">9,068</text>
+<text top="642" left="598" width="52" height="14" font="1">                  </text>
+<text top="657" left="83" width="80" height="14" font="1">Dividend received</text>
+<text top="657" left="550" width="25" height="14" font="1">2,643</text>
+<text top="657" left="500" width="52" height="14" font="1">                  </text>
+<text top="657" left="648" width="25" height="14" font="1">1,480</text>
+<text top="657" left="599" width="52" height="14" font="1">                  </text>
+<text top="672" left="83" width="56" height="14" font="1">Interest paid</text>
+<text top="672" left="546" width="32" height="14" font="1">(1,001)</text>
+<text top="672" left="500" width="49" height="14" font="1">                 </text>
+<text top="671" left="645" width="32" height="14" font="1">(1,431)</text>
+<text top="671" left="598" width="49" height="14" font="1">                 </text>
+<text top="687" left="83" width="75" height="14" font="1">Interest received</text>
+<text top="687" left="558" width="17" height="14" font="1">321</text>
+<text top="687" left="500" width="60" height="14" font="1">                     </text>
+<text top="687" left="656" width="17" height="14" font="1">586</text>
+<text top="687" left="598" width="60" height="14" font="1">                     </text>
+<text top="702" left="83" width="54" height="14" font="1">Net tax paid</text>
+<text top="702" left="546" width="32" height="14" font="1">(1,144)</text>
+<text top="702" left="500" width="49" height="14" font="1">                 </text>
+<text top="702" left="645" width="32" height="14" font="1">(4,390)</text>
+<text top="702" left="598" width="49" height="14" font="1">                 </text>
+<text top="717" left="83" width="213" height="14" font="1">Net cash generated from operating activities</text>
+<text top="717" left="550" width="25" height="14" font="1">4,844</text>
+<text top="717" left="500" width="52" height="14" font="1">                  </text>
+<text top="717" left="648" width="25" height="14" font="1">5,313</text>
+<text top="717" left="598" width="52" height="14" font="1">                  </text>
+<text top="747" left="83" width="172" height="14" font="1">Cash flows from investing activities</text>
+<text top="763" left="83" width="167" height="14" font="1">Computer software development cost</text>
+<text top="763" left="546" width="32" height="14" font="1">(4,982)</text>
+<text top="763" left="500" width="49" height="14" font="1">                 </text>
+<text top="762" left="645" width="32" height="14" font="1">(3,434)</text>
+<text top="762" left="598" width="49" height="14" font="1">                 </text>
+<text top="778" left="83" width="191" height="14" font="1">Purchase of property, plant and equipment</text>
+<text top="778" left="546" width="32" height="14" font="1">(3,306)</text>
+<text top="778" left="500" width="49" height="14" font="1">                 </text>
+<text top="777" left="645" width="32" height="14" font="1">(2,022)</text>
+<text top="777" left="598" width="49" height="14" font="1">                 </text>
+<text top="793" left="83" width="253" height="14" font="1">Proceeds from disposal of property, plant and equipment</text>
+<text top="793" left="570" width="6" height="14" font="1">4</text>
+<text top="793" left="500" width="72" height="14" font="1">                         </text>
+<text top="792" left="662" width="11" height="14" font="1">30</text>
+<text top="792" left="598" width="66" height="14" font="1">                       </text>
+<text top="808" left="83" width="165" height="14" font="1">Net changes in marketable securities</text>
+<text top="808" left="541" width="37" height="14" font="1">(29,747)</text>
+<text top="808" left="501" width="43" height="14" font="1">               </text>
+<text top="808" left="639" width="37" height="14" font="1">(18,870)</text>
+<text top="808" left="598" width="43" height="14" font="1">               </text>
+<text top="823" left="83" width="105" height="14" font="1">Investment in associate</text>
+<text top="823" left="561" width="3" height="14" font="1">-</text>
+<text top="823" left="500" width="63" height="14" font="1">                      </text>
+<text top="823" left="645" width="32" height="14" font="1">(8,331)</text>
+<text top="823" left="598" width="49" height="14" font="1">                 </text>
+<text top="838" left="83" width="173" height="14" font="1">Net cash used in investing activities</text>
+<text top="838" left="541" width="37" height="14" font="1">(38,031)</text>
+<text top="838" left="500" width="43" height="14" font="1">               </text>
+<text top="838" left="639" width="37" height="14" font="1">(32,627)</text>
+<text top="838" left="598" width="43" height="14" font="1">               </text>
+<text top="868" left="83" width="172" height="14" font="1">Cash flows from financing activities</text>
+<text top="884" left="83" width="61" height="14" font="1">Dividend paid</text>
+<text top="884" left="546" width="32" height="14" font="1">(5,582)</text>
+<text top="884" left="500" width="49" height="14" font="1">                 </text>
+<text top="883" left="639" width="37" height="14" font="1">(15,785)</text>
+<text top="883" left="598" width="43" height="14" font="1">               </text>
+<text top="899" left="83" width="157" height="14" font="1">Decrease in fixed deposits pledged</text>
+<text top="899" left="561" width="3" height="14" font="1">-</text>
+<text top="899" left="500" width="63" height="14" font="1">                      </text>
+<text top="898" left="642" width="31" height="14" font="1">43,868</text>
+<text top="898" left="598" width="46" height="14" font="1">                </text>
+<text top="914" left="83" width="299" height="14" font="1">Proceeds from issuance of shares pursuant to exercise of warrants</text>
+<text top="914" left="561" width="3" height="14" font="1">-</text>
+<text top="914" left="500" width="63" height="14" font="1">                      </text>
+<text top="913" left="642" width="31" height="14" font="1">30,920</text>
+<text top="913" left="598" width="46" height="14" font="1">                </text>
+<text top="929" left="83" width="288" height="14" font="1">Proceeds from issuance of shares pursuant to private placement</text>
+<text top="929" left="561" width="3" height="14" font="1">-</text>
+<text top="929" left="500" width="63" height="14" font="1">                      </text>
+<text top="929" left="642" width="31" height="14" font="1">65,052</text>
+<text top="929" left="598" width="46" height="14" font="1">                </text>
+<text top="944" left="83" width="139" height="14" font="1">Repayment of bank borrowings</text>
+<text top="944" left="546" width="32" height="14" font="1">(6,593)</text>
+<text top="944" left="500" width="49" height="14" font="1">                 </text>
+<text top="944" left="639" width="37" height="14" font="1">(37,796)</text>
+<text top="944" left="598" width="43" height="14" font="1">               </text>
+<text top="959" left="83" width="138" height="14" font="1">Repurchase of treasury shares</text>
+<text top="959" left="546" width="32" height="14" font="1">(1,656)</text>
+<text top="959" left="500" width="49" height="14" font="1">                 </text>
+<text top="959" left="639" width="37" height="14" font="1">(20,218)</text>
+<text top="959" left="598" width="43" height="14" font="1">               </text>
+<text top="974" left="83" width="257" height="14" font="1">Net cash (used in)/generated from financing activities</text>
+<text top="974" left="541" width="37" height="14" font="1">(13,831)</text>
+<text top="974" left="500" width="43" height="14" font="1">               </text>
+<text top="974" left="642" width="31" height="14" font="1">66,041</text>
+<text top="974" left="598" width="46" height="14" font="1">                </text>
+<text top="158" left="539" width="96" height="14" font="1">Year-To-Date Ended</text>
+<text top="1212" left="808" width="7" height="14" font="1">7</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="82" left="83" width="171" height="14" font="1">N2N CONNECT BERHAD (523137-K)</text>
+<text top="97" left="83" width="116" height="14" font="1">(Incorporated in Malaysia)</text>
+<text top="112" left="83" width="359" height="14" font="1">UNAUDITED CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS</text>
+<text top="127" left="83" width="242" height="14" font="1">FOR YEAR-TO-DATE ENDED 30 SEPTEMBER 2019</text>
+<text top="173" left="514" width="61" height="14" font="1">30 Sept 2019</text>
+<text top="173" left="612" width="61" height="14" font="1">30 Sept 2018</text>
+<text top="188" left="541" width="35" height="14" font="1">RM'000</text>
+<text top="188" left="639" width="35" height="14" font="1">RM'000</text>
+<text top="203" left="509" width="66" height="14" font="1">(UNAUDITED)</text>
+<text top="203" left="608" width="66" height="14" font="1">(UNAUDITED)</text>
+<text top="158" left="539" width="96" height="14" font="1">Year-To-Date Ended</text>
+<text top="233" left="83" width="256" height="14" font="1">Net (decrease)/increase in cash and cash equivalents</text>
+<text top="233" left="541" width="37" height="14" font="1">(47,018)</text>
+<text top="233" left="500" width="43" height="14" font="1">               </text>
+<text top="233" left="642" width="31" height="14" font="1">38,727</text>
+<text top="233" left="598" width="46" height="14" font="1">                </text>
+<text top="249" left="83" width="145" height="14" font="1">Effect of exchange rate changes</text>
+<text top="249" left="558" width="17" height="14" font="1">106</text>
+<text top="249" left="500" width="60" height="14" font="1">                     </text>
+<text top="248" left="656" width="17" height="14" font="1">697</text>
+<text top="248" left="598" width="60" height="14" font="1">                     </text>
+<text top="264" left="83" width="237" height="14" font="1">Cash and cash equivalents at beginning of the period</text>
+<text top="264" left="539" width="36" height="14" font="1">101,917</text>
+<text top="264" left="501" width="40" height="14" font="1">              </text>
+<text top="263" left="642" width="31" height="14" font="1">53,158</text>
+<text top="263" left="598" width="46" height="14" font="1">                </text>
+<text top="279" left="83" width="226" height="14" font="1">Cash and cash equivalents at end of the period</text>
+<text top="279" left="544" width="31" height="14" font="1">55,005</text>
+<text top="279" left="500" width="46" height="14" font="1">                </text>
+<text top="279" left="642" width="31" height="14" font="1">92,582</text>
+<text top="279" left="598" width="46" height="14" font="1">                </text>
+<text top="309" left="83" width="283" height="14" font="1">Cash and cash equivalents at end of the period comprises:</text>
+<text top="324" left="83" width="111" height="14" font="1">Cash and bank balances</text>
+<text top="324" left="544" width="31" height="14" font="1">54,656</text>
+<text top="324" left="500" width="46" height="14" font="1">                </text>
+<text top="324" left="642" width="31" height="14" font="1">92,582</text>
+<text top="324" left="598" width="46" height="14" font="1">                </text>
+<text top="339" left="83" width="124" height="14" font="1">Deposits with licensed bank</text>
+<text top="339" left="558" width="17" height="14" font="1">349</text>
+<text top="339" left="500" width="60" height="14" font="1">                     </text>
+<text top="339" left="656" width="17" height="14" font="1">339</text>
+<text top="339" left="598" width="60" height="14" font="1">                     </text>
+<text top="354" left="544" width="31" height="14" font="1">55,005</text>
+<text top="354" left="500" width="46" height="14" font="1">                </text>
+<text top="354" left="642" width="31" height="14" font="1">92,921</text>
+<text top="354" left="598" width="46" height="14" font="1">                </text>
+<text top="370" left="83" width="206" height="14" font="1">Less: Fixed deposits pledged to licensed bank</text>
+<text top="370" left="555" width="23" height="14" font="1">(349)</text>
+<text top="370" left="500" width="58" height="14" font="1">                    </text>
+<text top="369" left="653" width="23" height="14" font="1">(339)</text>
+<text top="369" left="598" width="58" height="14" font="1">                    </text>
+<text top="385" left="544" width="31" height="14" font="1">54,656</text>
+<text top="385" left="500" width="46" height="14" font="1">                </text>
+<text top="385" left="642" width="31" height="14" font="1">92,582</text>
+<text top="385" left="598" width="46" height="14" font="1">                </text>
+<text top="914" left="79" width="595" height="14" font="1">The above Condensed Consolidated Statement of Cash Flows should be read in conjunction with the Annual Audited Financial</text>
+<text top="930" left="79" width="595" height="14" font="1">Statements of the Group for the financial year ended 31 December 2018 and the accompanying explanatory notes attached to the</text>
+<text top="946" left="79" width="125" height="14" font="1">interim financial statements.</text>
+<text top="1212" left="808" width="7" height="14" font="1">8</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="82" left="80" width="195" height="16" font="2">N2N CONNECT BERHAD (523137-K)</text>
+<text top="100" left="80" width="132" height="16" font="2">(Incorporated in Malaysia)</text>
+<text top="117" left="80" width="384" height="16" font="2">UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS</text>
+<text top="134" left="80" width="389" height="16" font="2">FOR THE QUARTER AND YEAR-TO-DATE ENDED 30 SEPTEMBER 2019</text>
+<text top="168" left="80" width="8" height="16" font="2">A</text>
+<text top="168" left="112" width="401" height="16" font="2">NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS</text>
+<text top="202" left="80" width="15" height="16" font="2">A1</text>
+<text top="202" left="112" width="140" height="16" font="2">BASIS OF PREPARATION</text>
+<text top="356" left="80" width="15" height="16" font="2">A2</text>
+<text top="356" left="112" width="211" height="16" font="2">SIGNIFICANT ACCOUNTING POLICIES</text>
+<text top="477" left="112" width="206" height="16" font="2">Standards issued but not yet effective</text>
+<text top="494" left="112" width="363" height="16" font="2">Effective for financial periods beginning on or after 1 January 2020</text>
+<text top="511" left="112" width="251" height="16" font="2">Amendments to MFRS 3: Business Combinations</text>
+<text top="528" left="112" width="476" height="16" font="2">Amendments to MFRS 108: Accounting Policies, Changes in Accounting Estimates and Errors</text>
+<text top="545" left="112" width="331" height="16" font="2">Amendments to MFRS 101: Presentation of Financial Statements</text>
+<text top="579" left="112" width="354" height="16" font="2">Effective for annual periods beginning on or after 1 January 2021</text>
+<text top="597" left="112" width="157" height="16" font="2">MFRS 17: Insurance Contracts</text>
+<text top="630" left="112" width="503" height="16" font="2">Effective date of these amendments to Standards has been deferred, and yet to be annouced</text>
+<text top="733" left="80" width="15" height="16" font="2">A3</text>
+<text top="733" left="112" width="374" height="16" font="2">AUDIT REPORT OF PRECEDING ANNUAL FINANCIAL STATEMENTS</text>
+<text top="801" left="80" width="15" height="16" font="2">A4</text>
+<text top="801" left="112" width="203" height="16" font="2">SEASONAL OR CYCLICAL FACTORS</text>
+<text top="870" left="80" width="15" height="16" font="2">A5</text>
+<text top="870" left="112" width="512" height="16" font="2">UNUSUAL ITEMS AFFECTING ASSETS, LIABILITIES, EQUITY, NET INCOME OR CASH FLOWS</text>
+<text top="956" left="80" width="15" height="16" font="2">A6</text>
+<text top="956" left="112" width="203" height="16" font="2">MATERIAL CHANGES IN ESTIMATES</text>
+<text top="836" left="112" width="629" height="16" font="2">The Group's operations were not materially affected by seasonal or cyclical changes during the current quarter under review.</text>
+<text top="904" left="112" width="695" height="16" font="2">There were no unusual items affecting assets, liabilities, equity, net income or cash flows of the Group during the current quarter under</text>
+<text top="922" left="112" width="36" height="16" font="2">review.</text>
+<text top="991" left="112" width="695" height="16" font="2">There were no changes in estimates of amounts reported in prior financial years, which have a material effect in the current quarter under</text>
+<text top="1008" left="112" width="36" height="16" font="2">review.</text>
+<text top="236" left="112" width="695" height="16" font="2">The condensed consolidated interim financial statements are unaudited and have been prepared in accordance with the Malaysian</text>
+<text top="254" left="112" width="695" height="16" font="2">Financial Reporting Standard (&#34;MFRS&#34;) No. 134: Interim Financial Reporting, and Part K Rule 9.22 of the Listing Requirements of Bursa</text>
+<text top="272" left="112" width="242" height="16" font="2">Malaysia Securities Berhad for the ACE Market.</text>
+<text top="305" left="112" width="695" height="16" font="2">The condensed consolidated financial statements should be read in conjunction with the Annual Audited Financial Statements of the</text>
+<text top="322" left="112" width="279" height="16" font="2">Group for the financial year ended 31 December 2018. </text>
+<text top="390" left="112" width="695" height="16" font="2">The accounting policies adopted in the preparation of the Condensed Report are consistent with those in the preparation of the Group’s</text>
+<text top="408" left="112" width="695" height="16" font="2">audited financial statements for the financial year ended 31 December 2018. As at the date of authorisation of this Condensed Report,</text>
+<text top="426" left="112" width="698" height="16" font="2">the following Standards and amendments to standards have been issued by the Malaysian Accounting Standards Board (“MASB”) but are </text>
+<text top="443" left="112" width="294" height="16" font="2">not yet effective and have not been adopted by the Group:</text>
+<text top="648" left="112" width="613" height="16" font="2">Amendments to MFRS 10 and 128: Sale or Contribution of Assets between an Investor and its Associate or Joint Venture</text>
+<text top="682" left="112" width="695" height="16" font="2">The Group will adopt the above pronouncements when they become effective in the respective financial periods. These pronouncements</text>
+<text top="699" left="112" width="564" height="16" font="2">are not expected to have a material impact to the financial statements of the Group upon their initial recognition.</text>
+<text top="767" left="112" width="586" height="16" font="2">There were no audit qualifications on the annual audited financial statements for the year ended 31 December 2018.</text>
+<text top="1211" left="807" width="8" height="15" font="2">9</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="82" left="80" width="195" height="16" font="2">N2N CONNECT BERHAD (523137-K)</text>
+<text top="100" left="80" width="132" height="16" font="2">(Incorporated in Malaysia)</text>
+<text top="117" left="80" width="384" height="16" font="2">UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS</text>
+<text top="134" left="80" width="389" height="16" font="2">FOR THE QUARTER AND YEAR-TO-DATE ENDED 30 SEPTEMBER 2019</text>
+<text top="168" left="80" width="15" height="16" font="2">A7</text>
+<text top="168" left="112" width="177" height="16" font="2">DEBT AND EQUITY SECURITIES</text>
+<text top="249" left="80" width="15" height="16" font="2">A8</text>
+<text top="249" left="112" width="85" height="16" font="2">DIVIDEND PAID</text>
+<text top="314" left="80" width="15" height="16" font="2">A9</text>
+<text top="314" left="112" width="140" height="16" font="2">SEGMENT INFORMATION</text>
+<text top="402" left="307" width="48" height="16" font="2">Malaysia</text>
+<text top="402" left="406" width="62" height="16" font="2">Hong Kong</text>
+<text top="402" left="544" width="37" height="16" font="2">Others</text>
+<text top="402" left="626" width="68" height="16" font="2">Eliminations</text>
+<text top="402" left="776" width="27" height="16" font="2">Total</text>
+<text top="419" left="315" width="39" height="16" font="2">RM'000</text>
+<text top="419" left="428" width="39" height="16" font="2">RM'000</text>
+<text top="419" left="541" width="39" height="16" font="2">RM'000</text>
+<text top="419" left="654" width="39" height="16" font="2">RM'000</text>
+<text top="419" left="767" width="39" height="16" font="2">RM'000</text>
+<text top="436" left="112" width="128" height="16" font="2">Financial period ended </text>
+<text top="453" left="112" width="113" height="16" font="2">   30 September 2019</text>
+<text top="488" left="112" width="46" height="16" font="2">Revenue</text>
+<text top="505" left="112" width="141" height="16" font="2">Sales to external customers</text>
+<text top="505" left="316" width="35" height="16" font="2">28,818</text>
+<text top="505" left="274" width="45" height="16" font="2">              </text>
+<text top="505" left="429" width="35" height="16" font="2">42,946</text>
+<text top="505" left="373" width="58" height="16" font="2">                  </text>
+<text top="505" left="548" width="28" height="16" font="2">7,102</text>
+<text top="505" left="486" width="65" height="16" font="2">                    </text>
+<text top="505" left="674" width="4" height="16" font="2">-</text>
+<text top="505" left="599" width="78" height="16" font="2">                        </text>
+<text top="505" left="768" width="35" height="16" font="2">78,866</text>
+<text top="505" left="713" width="58" height="16" font="2">                  </text>
+<text top="522" left="112" width="100" height="16" font="2">Inter-segment sales</text>
+<text top="522" left="338" width="13" height="16" font="2">38</text>
+<text top="522" left="274" width="68" height="16" font="2">                     </text>
+<text top="522" left="447" width="4" height="16" font="2">-</text>
+<text top="522" left="373" width="78" height="16" font="2">                        </text>
+<text top="522" left="558" width="19" height="16" font="2">557</text>
+<text top="522" left="486" width="74" height="16" font="2">                       </text>
+<text top="522" left="667" width="26" height="16" font="2">(595)</text>
+<text top="522" left="599" width="71" height="16" font="2">                      </text>
+<text top="522" left="787" width="4" height="16" font="2">-</text>
+<text top="522" left="712" width="78" height="16" font="2">                        </text>
+<text top="539" left="112" width="25" height="16" font="2">Total</text>
+<text top="539" left="316" width="35" height="16" font="2">28,856</text>
+<text top="539" left="274" width="45" height="16" font="2">              </text>
+<text top="539" left="429" width="35" height="16" font="2">42,946</text>
+<text top="539" left="373" width="58" height="16" font="2">                  </text>
+<text top="539" left="548" width="28" height="16" font="2">7,659</text>
+<text top="539" left="486" width="65" height="16" font="2">                    </text>
+<text top="539" left="667" width="26" height="16" font="2">(595)</text>
+<text top="539" left="599" width="71" height="16" font="2">                      </text>
+<text top="539" left="768" width="35" height="16" font="2">78,866</text>
+<text top="539" left="712" width="58" height="16" font="2">                  </text>
+<text top="573" left="112" width="38" height="16" font="2">Results</text>
+<text top="591" left="112" width="49" height="16" font="2">EBITDA *</text>
+<text top="591" left="316" width="35" height="16" font="2">11,531</text>
+<text top="591" left="274" width="45" height="16" font="2">              </text>
+<text top="591" left="435" width="28" height="16" font="2">8,897</text>
+<text top="591" left="373" width="65" height="16" font="2">                    </text>
+<text top="591" left="548" width="28" height="16" font="2">1,793</text>
+<text top="591" left="486" width="65" height="16" font="2">                    </text>
+<text top="591" left="667" width="26" height="16" font="2">(125)</text>
+<text top="591" left="599" width="71" height="16" font="2">                      </text>
+<text top="591" left="768" width="35" height="16" font="2">22,096</text>
+<text top="591" left="713" width="58" height="16" font="2">                  </text>
+<text top="608" left="112" width="84" height="16" font="2">Dividend income</text>
+<text top="608" left="316" width="35" height="16" font="2">12,643</text>
+<text top="608" left="274" width="45" height="16" font="2">              </text>
+<text top="608" left="447" width="4" height="16" font="2">-</text>
+<text top="608" left="373" width="78" height="16" font="2">                        </text>
+<text top="608" left="561" width="4" height="16" font="2">-</text>
+<text top="608" left="486" width="78" height="16" font="2">                        </text>
+<text top="608" left="651" width="42" height="16" font="2">(10,000)</text>
+<text top="608" left="599" width="55" height="16" font="2">                 </text>
+<text top="608" left="775" width="28" height="16" font="2">2,643</text>
+<text top="608" left="713" width="65" height="16" font="2">                    </text>
+<text top="625" left="112" width="80" height="16" font="2">Finance income</text>
+<text top="625" left="332" width="19" height="16" font="2">302</text>
+<text top="625" left="274" width="61" height="16" font="2">                   </text>
+<text top="625" left="451" width="13" height="16" font="2">19</text>
+<text top="625" left="373" width="81" height="16" font="2">                         </text>
+<text top="625" left="561" width="4" height="16" font="2">-</text>
+<text top="625" left="486" width="78" height="16" font="2">                        </text>
+<text top="625" left="674" width="4" height="16" font="2">-</text>
+<text top="625" left="599" width="78" height="16" font="2">                        </text>
+<text top="625" left="784" width="19" height="16" font="2">321</text>
+<text top="625" left="713" width="74" height="16" font="2">                       </text>
+<text top="642" left="112" width="70" height="16" font="2">Finance costs</text>
+<text top="642" left="319" width="36" height="16" font="2">(1,001)</text>
+<text top="642" left="274" width="45" height="16" font="2">              </text>
+<text top="642" left="447" width="4" height="16" font="2">-</text>
+<text top="642" left="373" width="78" height="16" font="2">                        </text>
+<text top="642" left="561" width="4" height="16" font="2">-</text>
+<text top="642" left="486" width="78" height="16" font="2">                        </text>
+<text top="642" left="674" width="4" height="16" font="2">-</text>
+<text top="642" left="599" width="78" height="16" font="2">                        </text>
+<text top="642" left="771" width="36" height="16" font="2">(1,001)</text>
+<text top="642" left="712" width="61" height="16" font="2">                   </text>
+<text top="659" left="112" width="125" height="16" font="2">Depreciation of property,</text>
+<text top="676" left="112" width="113" height="16" font="2">   plant and equipment</text>
+<text top="676" left="319" width="36" height="16" font="2">(2,266)</text>
+<text top="676" left="274" width="45" height="16" font="2">              </text>
+<text top="676" left="432" width="36" height="16" font="2">(1,827)</text>
+<text top="676" left="373" width="61" height="16" font="2">                   </text>
+<text top="676" left="554" width="26" height="16" font="2">(104)</text>
+<text top="676" left="486" width="71" height="16" font="2">                      </text>
+<text top="676" left="674" width="4" height="16" font="2">-</text>
+<text top="676" left="599" width="78" height="16" font="2">                        </text>
+<text top="676" left="771" width="36" height="16" font="2">(4,197)</text>
+<text top="676" left="712" width="61" height="16" font="2">                   </text>
+<text top="693" left="112" width="135" height="16" font="2">Depreciation of investment</text>
+<text top="710" left="112" width="60" height="16" font="2">   properties</text>
+<text top="710" left="328" width="26" height="16" font="2">(176)</text>
+<text top="710" left="274" width="55" height="16" font="2">                 </text>
+<text top="710" left="447" width="4" height="16" font="2">-</text>
+<text top="710" left="373" width="78" height="16" font="2">                        </text>
+<text top="710" left="561" width="4" height="16" font="2">-</text>
+<text top="710" left="486" width="78" height="16" font="2">                        </text>
+<text top="710" left="674" width="4" height="16" font="2">-</text>
+<text top="710" left="599" width="78" height="16" font="2">                        </text>
+<text top="710" left="780" width="26" height="16" font="2">(176)</text>
+<text top="710" left="712" width="71" height="16" font="2">                      </text>
+<text top="727" left="112" width="128" height="16" font="2">Amortisation of intangible</text>
+<text top="744" left="112" width="43" height="16" font="2">   assets</text>
+<text top="744" left="319" width="36" height="16" font="2">(3,681)</text>
+<text top="744" left="274" width="45" height="16" font="2">              </text>
+<text top="744" left="447" width="20" height="16" font="2">(79)</text>
+<text top="744" left="373" width="78" height="16" font="2">                        </text>
+<text top="744" left="561" width="4" height="16" font="2">-</text>
+<text top="744" left="486" width="78" height="16" font="2">                        </text>
+<text top="744" left="674" width="4" height="16" font="2">-</text>
+<text top="744" left="599" width="78" height="16" font="2">                        </text>
+<text top="744" left="771" width="36" height="16" font="2">(3,760)</text>
+<text top="744" left="712" width="61" height="16" font="2">                   </text>
+<text top="762" left="112" width="92" height="16" font="2">Unrealised foreign</text>
+<text top="779" left="112" width="115" height="16" font="2">   exchange gain/(loss)</text>
+<text top="779" left="328" width="26" height="16" font="2">(206)</text>
+<text top="779" left="274" width="55" height="16" font="2">                 </text>
+<text top="779" left="447" width="4" height="16" font="2">-</text>
+<text top="779" left="373" width="78" height="16" font="2">                        </text>
+<text top="779" left="564" width="13" height="16" font="2">28</text>
+<text top="779" left="486" width="81" height="16" font="2">                         </text>
+<text top="779" left="680" width="14" height="16" font="2">(6)</text>
+<text top="779" left="599" width="84" height="16" font="2">                          </text>
+<text top="779" left="780" width="26" height="16" font="2">(184)</text>
+<text top="779" left="712" width="71" height="16" font="2">                      </text>
+<text top="796" left="112" width="150" height="16" font="2">Share of results of associates</text>
+<text top="796" left="328" width="26" height="16" font="2">(125)</text>
+<text top="796" left="274" width="55" height="16" font="2">                 </text>
+<text top="796" left="447" width="4" height="16" font="2">-</text>
+<text top="796" left="373" width="78" height="16" font="2">                        </text>
+<text top="796" left="561" width="4" height="16" font="2">-</text>
+<text top="796" left="486" width="78" height="16" font="2">                        </text>
+<text top="796" left="674" width="4" height="16" font="2">-</text>
+<text top="796" left="599" width="78" height="16" font="2">                        </text>
+<text top="796" left="780" width="26" height="16" font="2">(125)</text>
+<text top="796" left="712" width="71" height="16" font="2">                      </text>
+<text top="813" left="112" width="138" height="16" font="2">Provision for doubtful debts</text>
+<text top="813" left="334" width="4" height="16" font="2">-</text>
+<text top="813" left="274" width="61" height="16" font="2">                   </text>
+<text top="813" left="447" width="20" height="16" font="2">(67)</text>
+<text top="813" left="373" width="78" height="16" font="2">                        </text>
+<text top="813" left="561" width="4" height="16" font="2">-</text>
+<text top="813" left="486" width="78" height="16" font="2">                        </text>
+<text top="813" left="674" width="4" height="16" font="2">-</text>
+<text top="813" left="599" width="78" height="16" font="2">                        </text>
+<text top="813" left="787" width="20" height="16" font="2">(67)</text>
+<text top="813" left="712" width="78" height="16" font="2">                        </text>
+<text top="830" left="112" width="109" height="16" font="2">Other non-cash items</text>
+<text top="830" left="338" width="13" height="16" font="2">11</text>
+<text top="830" left="274" width="68" height="16" font="2">                     </text>
+<text top="830" left="441" width="26" height="16" font="2">(281)</text>
+<text top="830" left="373" width="71" height="16" font="2">                      </text>
+<text top="830" left="561" width="4" height="16" font="2">-</text>
+<text top="830" left="486" width="78" height="16" font="2">                        </text>
+<text top="830" left="674" width="4" height="16" font="2">-</text>
+<text top="830" left="599" width="78" height="16" font="2">                        </text>
+<text top="830" left="780" width="26" height="16" font="2">(270)</text>
+<text top="830" left="712" width="71" height="16" font="2">                      </text>
+<text top="847" left="112" width="44" height="16" font="2">Taxation</text>
+<text top="847" left="319" width="36" height="16" font="2">(1,189)</text>
+<text top="847" left="274" width="45" height="16" font="2">              </text>
+<text top="847" left="447" width="4" height="16" font="2">-</text>
+<text top="847" left="373" width="78" height="16" font="2">                        </text>
+<text top="847" left="554" width="26" height="16" font="2">(287)</text>
+<text top="847" left="486" width="71" height="16" font="2">                      </text>
+<text top="847" left="674" width="4" height="16" font="2">-</text>
+<text top="847" left="599" width="78" height="16" font="2">                        </text>
+<text top="847" left="771" width="36" height="16" font="2">(1,476)</text>
+<text top="847" left="712" width="61" height="16" font="2">                   </text>
+<text top="864" left="112" width="145" height="16" font="2">Segment profit for the period</text>
+<text top="864" left="316" width="35" height="16" font="2">15,843</text>
+<text top="864" left="274" width="45" height="16" font="2">              </text>
+<text top="864" left="435" width="28" height="16" font="2">6,662</text>
+<text top="864" left="373" width="65" height="16" font="2">                    </text>
+<text top="864" left="548" width="28" height="16" font="2">1,430</text>
+<text top="864" left="486" width="65" height="16" font="2">                    </text>
+<text top="864" left="651" width="42" height="16" font="2">(10,131)</text>
+<text top="864" left="599" width="55" height="16" font="2">                 </text>
+<text top="864" left="768" width="35" height="16" font="2">13,804</text>
+<text top="864" left="712" width="58" height="16" font="2">                  </text>
+<text top="898" left="112" width="544" height="16" font="2">* Earnings before interest, taxes, depreciation and amortisation (excluding other significant non-cash items).</text>
+<text top="348" left="112" width="695" height="16" font="2">The reportable segments of the Group derive their revenue primarily from the provision of design, programming, consultancy services and</text>
+<text top="366" left="112" width="371" height="16" font="2">related services which are substantially within a single business segment.</text>
+<text top="200" left="112" width="695" height="16" font="2">There were no issuance, cancellation, repurchase, resale and repayment of debts and equity securities for the current quarter under</text>
+<text top="218" left="112" width="36" height="16" font="2">review.</text>
+<text top="282" left="112" width="326" height="16" font="2">There is no dividend paid during the current period under review.</text>
+<text top="1211" left="800" width="15" height="15" font="2">10</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="82" left="80" width="195" height="16" font="2">N2N CONNECT BERHAD (523137-K)</text>
+<text top="100" left="80" width="132" height="16" font="2">(Incorporated in Malaysia)</text>
+<text top="117" left="80" width="384" height="16" font="2">UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS</text>
+<text top="134" left="80" width="389" height="16" font="2">FOR THE QUARTER AND YEAR-TO-DATE ENDED 30 SEPTEMBER 2019</text>
+<text top="178" left="307" width="48" height="16" font="2">Malaysia</text>
+<text top="178" left="406" width="62" height="16" font="2">Hong Kong</text>
+<text top="178" left="544" width="37" height="16" font="2">Others</text>
+<text top="178" left="626" width="68" height="16" font="2">Eliminations</text>
+<text top="178" left="776" width="27" height="16" font="2">Total</text>
+<text top="195" left="315" width="39" height="16" font="2">RM'000</text>
+<text top="195" left="428" width="39" height="16" font="2">RM'000</text>
+<text top="195" left="541" width="39" height="16" font="2">RM'000</text>
+<text top="195" left="654" width="39" height="16" font="2">RM'000</text>
+<text top="195" left="767" width="39" height="16" font="2">RM'000</text>
+<text top="212" left="112" width="128" height="16" font="2">Financial period ended </text>
+<text top="229" left="112" width="113" height="16" font="2">   30 September 2018</text>
+<text top="264" left="112" width="46" height="16" font="2">Revenue</text>
+<text top="281" left="112" width="141" height="16" font="2">Sales to external customers</text>
+<text top="281" left="316" width="35" height="16" font="2">30,018</text>
+<text top="281" left="274" width="45" height="16" font="2">              </text>
+<text top="281" left="429" width="35" height="16" font="2">44,045</text>
+<text top="281" left="373" width="58" height="16" font="2">                  </text>
+<text top="281" left="548" width="28" height="16" font="2">6,190</text>
+<text top="281" left="486" width="65" height="16" font="2">                    </text>
+<text top="281" left="674" width="4" height="16" font="2">-</text>
+<text top="281" left="599" width="78" height="16" font="2">                        </text>
+<text top="281" left="768" width="35" height="16" font="2">80,253</text>
+<text top="281" left="713" width="58" height="16" font="2">                  </text>
+<text top="298" left="112" width="100" height="16" font="2">Inter-segment sales</text>
+<text top="298" left="338" width="13" height="16" font="2">50</text>
+<text top="298" left="274" width="68" height="16" font="2">                     </text>
+<text top="298" left="447" width="4" height="16" font="2">-</text>
+<text top="298" left="373" width="78" height="16" font="2">                        </text>
+<text top="298" left="561" width="4" height="16" font="2">-</text>
+<text top="298" left="486" width="78" height="16" font="2">                        </text>
+<text top="298" left="674" width="20" height="16" font="2">(50)</text>
+<text top="298" left="599" width="78" height="16" font="2">                        </text>
+<text top="298" left="787" width="4" height="16" font="2">-</text>
+<text top="298" left="712" width="78" height="16" font="2">                        </text>
+<text top="315" left="112" width="25" height="16" font="2">Total</text>
+<text top="315" left="316" width="35" height="16" font="2">30,068</text>
+<text top="315" left="274" width="45" height="16" font="2">              </text>
+<text top="315" left="429" width="35" height="16" font="2">44,045</text>
+<text top="315" left="373" width="58" height="16" font="2">                  </text>
+<text top="315" left="548" width="28" height="16" font="2">6,190</text>
+<text top="315" left="486" width="65" height="16" font="2">                    </text>
+<text top="315" left="674" width="20" height="16" font="2">(50)</text>
+<text top="315" left="599" width="78" height="16" font="2">                        </text>
+<text top="315" left="768" width="35" height="16" font="2">80,253</text>
+<text top="315" left="712" width="58" height="16" font="2">                  </text>
+<text top="349" left="112" width="38" height="16" font="2">Results</text>
+<text top="366" left="112" width="49" height="16" font="2">EBITDA *</text>
+<text top="366" left="316" width="35" height="16" font="2">12,499</text>
+<text top="366" left="274" width="45" height="16" font="2">              </text>
+<text top="366" left="429" width="35" height="16" font="2">10,146</text>
+<text top="366" left="373" width="58" height="16" font="2">                  </text>
+<text top="366" left="558" width="19" height="16" font="2">811</text>
+<text top="366" left="486" width="74" height="16" font="2">                       </text>
+<text top="366" left="667" width="26" height="16" font="2">(135)</text>
+<text top="366" left="599" width="71" height="16" font="2">                      </text>
+<text top="366" left="768" width="35" height="16" font="2">23,321</text>
+<text top="366" left="713" width="58" height="16" font="2">                  </text>
+<text top="383" left="112" width="84" height="16" font="2">Dividend income</text>
+<text top="383" left="316" width="35" height="16" font="2">51,520</text>
+<text top="383" left="274" width="45" height="16" font="2">              </text>
+<text top="383" left="447" width="4" height="16" font="2">-</text>
+<text top="383" left="373" width="78" height="16" font="2">                        </text>
+<text top="383" left="561" width="4" height="16" font="2">-</text>
+<text top="383" left="486" width="78" height="16" font="2">                        </text>
+<text top="383" left="651" width="42" height="16" font="2">(50,040)</text>
+<text top="383" left="599" width="55" height="16" font="2">                 </text>
+<text top="383" left="775" width="28" height="16" font="2">1,480</text>
+<text top="383" left="713" width="65" height="16" font="2">                    </text>
+<text top="400" left="112" width="80" height="16" font="2">Finance income</text>
+<text top="400" left="332" width="19" height="16" font="2">583</text>
+<text top="400" left="274" width="61" height="16" font="2">                   </text>
+<text top="400" left="458" width="6" height="16" font="2">2</text>
+<text top="400" left="373" width="87" height="16" font="2">                           </text>
+<text top="400" left="571" width="6" height="16" font="2">1</text>
+<text top="400" left="486" width="87" height="16" font="2">                           </text>
+<text top="400" left="674" width="4" height="16" font="2">-</text>
+<text top="400" left="599" width="78" height="16" font="2">                        </text>
+<text top="400" left="784" width="19" height="16" font="2">586</text>
+<text top="400" left="713" width="74" height="16" font="2">                       </text>
+<text top="417" left="112" width="70" height="16" font="2">Finance costs</text>
+<text top="417" left="319" width="36" height="16" font="2">(1,431)</text>
+<text top="417" left="274" width="45" height="16" font="2">              </text>
+<text top="417" left="447" width="4" height="16" font="2">-</text>
+<text top="417" left="373" width="78" height="16" font="2">                        </text>
+<text top="417" left="561" width="4" height="16" font="2">-</text>
+<text top="417" left="486" width="78" height="16" font="2">                        </text>
+<text top="417" left="674" width="4" height="16" font="2">-</text>
+<text top="417" left="599" width="78" height="16" font="2">                        </text>
+<text top="417" left="771" width="36" height="16" font="2">(1,431)</text>
+<text top="417" left="712" width="61" height="16" font="2">                   </text>
+<text top="435" left="112" width="125" height="16" font="2">Depreciation of property,</text>
+<text top="452" left="112" width="113" height="16" font="2">   plant and equipment</text>
+<text top="452" left="319" width="36" height="16" font="2">(2,743)</text>
+<text top="452" left="274" width="45" height="16" font="2">              </text>
+<text top="452" left="432" width="36" height="16" font="2">(1,653)</text>
+<text top="452" left="373" width="61" height="16" font="2">                   </text>
+<text top="452" left="554" width="26" height="16" font="2">(101)</text>
+<text top="452" left="486" width="71" height="16" font="2">                      </text>
+<text top="452" left="674" width="4" height="16" font="2">-</text>
+<text top="452" left="599" width="78" height="16" font="2">                        </text>
+<text top="452" left="771" width="36" height="16" font="2">(4,497)</text>
+<text top="452" left="712" width="61" height="16" font="2">                   </text>
+<text top="469" left="112" width="135" height="16" font="2">Depreciation of investment</text>
+<text top="486" left="112" width="60" height="16" font="2">   properties</text>
+<text top="486" left="328" width="26" height="16" font="2">(176)</text>
+<text top="486" left="274" width="55" height="16" font="2">                 </text>
+<text top="486" left="447" width="4" height="16" font="2">-</text>
+<text top="486" left="373" width="78" height="16" font="2">                        </text>
+<text top="486" left="561" width="4" height="16" font="2">-</text>
+<text top="486" left="486" width="78" height="16" font="2">                        </text>
+<text top="486" left="674" width="4" height="16" font="2">-</text>
+<text top="486" left="599" width="78" height="16" font="2">                        </text>
+<text top="486" left="780" width="26" height="16" font="2">(176)</text>
+<text top="486" left="712" width="71" height="16" font="2">                      </text>
+<text top="503" left="112" width="128" height="16" font="2">Amortisation of intangible</text>
+<text top="520" left="112" width="43" height="16" font="2">   assets</text>
+<text top="520" left="319" width="36" height="16" font="2">(2,977)</text>
+<text top="520" left="274" width="45" height="16" font="2">              </text>
+<text top="520" left="447" width="20" height="16" font="2">(75)</text>
+<text top="520" left="373" width="78" height="16" font="2">                        </text>
+<text top="520" left="561" width="4" height="16" font="2">-</text>
+<text top="520" left="486" width="78" height="16" font="2">                        </text>
+<text top="520" left="674" width="4" height="16" font="2">-</text>
+<text top="520" left="599" width="78" height="16" font="2">                        </text>
+<text top="520" left="771" width="36" height="16" font="2">(3,052)</text>
+<text top="520" left="712" width="61" height="16" font="2">                   </text>
+<text top="537" left="112" width="92" height="16" font="2">Unrealised foreign</text>
+<text top="554" left="112" width="115" height="16" font="2">   exchange gain/(loss)</text>
+<text top="554" left="332" width="19" height="16" font="2">330</text>
+<text top="554" left="274" width="61" height="16" font="2">                   </text>
+<text top="554" left="458" width="6" height="16" font="2">8</text>
+<text top="554" left="373" width="87" height="16" font="2">                           </text>
+<text top="554" left="567" width="14" height="16" font="2">(1)</text>
+<text top="554" left="486" width="84" height="16" font="2">                          </text>
+<text top="554" left="667" width="26" height="16" font="2">(740)</text>
+<text top="554" left="599" width="71" height="16" font="2">                      </text>
+<text top="554" left="780" width="26" height="16" font="2">(403)</text>
+<text top="554" left="712" width="71" height="16" font="2">                      </text>
+<text top="571" left="112" width="150" height="16" font="2">Share of results of associates</text>
+<text top="571" left="328" width="26" height="16" font="2">(135)</text>
+<text top="571" left="274" width="55" height="16" font="2">                 </text>
+<text top="571" left="447" width="4" height="16" font="2">-</text>
+<text top="571" left="373" width="78" height="16" font="2">                        </text>
+<text top="571" left="561" width="4" height="16" font="2">-</text>
+<text top="571" left="486" width="78" height="16" font="2">                        </text>
+<text top="571" left="674" width="4" height="16" font="2">-</text>
+<text top="571" left="599" width="78" height="16" font="2">                        </text>
+<text top="571" left="780" width="26" height="16" font="2">(135)</text>
+<text top="571" left="712" width="71" height="16" font="2">                      </text>
+<text top="588" left="112" width="109" height="16" font="2">Other non-cash items</text>
+<text top="588" left="328" width="26" height="16" font="2">(112)</text>
+<text top="588" left="274" width="55" height="16" font="2">                 </text>
+<text top="588" left="441" width="26" height="16" font="2">(282)</text>
+<text top="588" left="373" width="71" height="16" font="2">                      </text>
+<text top="588" left="561" width="4" height="16" font="2">-</text>
+<text top="588" left="486" width="78" height="16" font="2">                        </text>
+<text top="588" left="674" width="4" height="16" font="2">-</text>
+<text top="588" left="599" width="78" height="16" font="2">                        </text>
+<text top="588" left="780" width="26" height="16" font="2">(394)</text>
+<text top="588" left="712" width="71" height="16" font="2">                      </text>
+<text top="606" left="112" width="44" height="16" font="2">Taxation</text>
+<text top="606" left="319" width="36" height="16" font="2">(5,254)</text>
+<text top="606" left="274" width="45" height="16" font="2">              </text>
+<text top="606" left="447" width="4" height="16" font="2">-</text>
+<text top="606" left="373" width="78" height="16" font="2">                        </text>
+<text top="606" left="561" width="4" height="16" font="2">-</text>
+<text top="606" left="486" width="78" height="16" font="2">                        </text>
+<text top="606" left="674" width="4" height="16" font="2">-</text>
+<text top="606" left="599" width="78" height="16" font="2">                        </text>
+<text top="606" left="771" width="36" height="16" font="2">(5,254)</text>
+<text top="606" left="712" width="61" height="16" font="2">                   </text>
+<text top="623" left="112" width="145" height="16" font="2">Segment profit for the period</text>
+<text top="623" left="316" width="35" height="16" font="2">52,104</text>
+<text top="623" left="274" width="45" height="16" font="2">              </text>
+<text top="623" left="435" width="28" height="16" font="2">8,146</text>
+<text top="623" left="373" width="65" height="16" font="2">                    </text>
+<text top="623" left="558" width="19" height="16" font="2">710</text>
+<text top="623" left="486" width="74" height="16" font="2">                       </text>
+<text top="623" left="651" width="42" height="16" font="2">(50,915)</text>
+<text top="623" left="599" width="55" height="16" font="2">                 </text>
+<text top="623" left="768" width="35" height="16" font="2">10,045</text>
+<text top="623" left="712" width="58" height="16" font="2">                  </text>
+<text top="657" left="112" width="544" height="16" font="2">* Earnings before interest, taxes, depreciation and amortisation (excluding other significant non-cash items).</text>
+<text top="691" left="80" width="231" height="16" font="2">A10 PROVISION FOR DOUBTFUL DEBTS</text>
+<text top="759" left="80" width="157" height="16" font="2">A11 OTHER RECEIVABLES</text>
+<text top="788" left="660" width="30" height="16" font="2">As At</text>
+<text top="788" left="773" width="30" height="16" font="2">As At</text>
+<text top="805" left="621" width="69" height="16" font="2">30 Sept 2019</text>
+<text top="805" left="738" width="65" height="16" font="2">31 Dec 2018</text>
+<text top="822" left="651" width="39" height="16" font="2">RM'000</text>
+<text top="822" left="764" width="39" height="16" font="2">RM'000</text>
+<text top="857" left="112" width="67" height="16" font="2">Prepayments</text>
+<text top="857" left="662" width="28" height="16" font="2">4,528</text>
+<text top="857" left="599" width="65" height="16" font="2">                    </text>
+<text top="857" left="775" width="28" height="16" font="2">2,416</text>
+<text top="857" left="712" width="65" height="16" font="2">                    </text>
+<text top="874" left="112" width="69" height="16" font="2">Deposits paid</text>
+<text top="874" left="662" width="28" height="16" font="2">1,675</text>
+<text top="874" left="599" width="65" height="16" font="2">                    </text>
+<text top="874" left="775" width="28" height="16" font="2">1,505</text>
+<text top="874" left="712" width="65" height="16" font="2">                    </text>
+<text top="891" left="112" width="89" height="16" font="2">Other receivables</text>
+<text top="891" left="662" width="28" height="16" font="2">3,222</text>
+<text top="891" left="599" width="65" height="16" font="2">                    </text>
+<text top="891" left="775" width="28" height="16" font="2">3,244</text>
+<text top="891" left="712" width="65" height="16" font="2">                    </text>
+<text top="908" left="662" width="28" height="16" font="2">9,425</text>
+<text top="908" left="599" width="65" height="16" font="2">                    </text>
+<text top="908" left="775" width="28" height="16" font="2">7,165</text>
+<text top="908" left="712" width="65" height="16" font="2">                    </text>
+<text top="925" left="80" width="138" height="16" font="2">A12 OTHER PAYABLES</text>
+<text top="954" left="660" width="30" height="16" font="2">As At</text>
+<text top="954" left="773" width="30" height="16" font="2">As At</text>
+<text top="971" left="621" width="69" height="16" font="2">30 Sept 2019</text>
+<text top="971" left="738" width="65" height="16" font="2">31 Dec 2018</text>
+<text top="988" left="651" width="39" height="16" font="2">RM'000</text>
+<text top="988" left="764" width="39" height="16" font="2">RM'000</text>
+<text top="1023" left="112" width="44" height="16" font="2">Accruals</text>
+<text top="1023" left="662" width="28" height="16" font="2">2,574</text>
+<text top="1023" left="599" width="65" height="16" font="2">                    </text>
+<text top="1023" left="775" width="28" height="16" font="2">4,726</text>
+<text top="1023" left="712" width="65" height="16" font="2">                    </text>
+<text top="1040" left="112" width="85" height="16" font="2">Deposit received</text>
+<text top="1040" left="662" width="28" height="16" font="2">3,661</text>
+<text top="1040" left="599" width="65" height="16" font="2">                    </text>
+<text top="1040" left="775" width="28" height="16" font="2">3,421</text>
+<text top="1040" left="712" width="65" height="16" font="2">                    </text>
+<text top="1057" left="112" width="77" height="16" font="2">Other payables</text>
+<text top="1057" left="662" width="28" height="16" font="2">3,249</text>
+<text top="1057" left="599" width="65" height="16" font="2">                    </text>
+<text top="1057" left="775" width="28" height="16" font="2">8,257</text>
+<text top="1057" left="712" width="65" height="16" font="2">                    </text>
+<text top="1074" left="662" width="28" height="16" font="2">9,484</text>
+<text top="1074" left="599" width="65" height="16" font="2">                    </text>
+<text top="1074" left="768" width="35" height="16" font="2">16,404</text>
+<text top="1074" left="712" width="58" height="16" font="2">                  </text>
+<text top="725" left="112" width="390" height="16" font="2">There was no provision for doubtful debts in the current quarter under review.</text>
+<text top="1211" left="800" width="15" height="15" font="2">11</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="82" left="80" width="195" height="16" font="2">N2N CONNECT BERHAD (523137-K)</text>
+<text top="100" left="80" width="132" height="16" font="2">(Incorporated in Malaysia)</text>
+<text top="117" left="80" width="384" height="16" font="2">UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS</text>
+<text top="134" left="80" width="389" height="16" font="2">FOR THE QUARTER AND YEAR-TO-DATE ENDED 30 SEPTEMBER 2019</text>
+<text top="168" left="80" width="173" height="16" font="2">A13 FAIR VALUE HIERARCHY</text>
+<text top="253" left="112" width="679" height="16" font="2">• Level 2: Inputs other than quoted prices included within level 1 that are observable for the asset or liability, either directly or indirectly.</text>
+<text top="305" left="112" width="674" height="16" font="2">The following table analyses the fair value hierarchy for financial instruments carried at fair value in the statement of financial position:</text>
+<text top="339" left="660" width="30" height="16" font="2">As At</text>
+<text top="339" left="773" width="30" height="16" font="2">As At</text>
+<text top="356" left="621" width="69" height="16" font="2">30 Sept 2019</text>
+<text top="356" left="738" width="65" height="16" font="2">31 Dec 2018</text>
+<text top="373" left="651" width="39" height="16" font="2">Level 1</text>
+<text top="373" left="764" width="39" height="16" font="2">Level 1</text>
+<text top="390" left="635" width="55" height="16" font="2">Fair Value</text>
+<text top="390" left="748" width="55" height="16" font="2">Fair Value</text>
+<text top="407" left="651" width="39" height="16" font="2">RM'000</text>
+<text top="407" left="764" width="39" height="16" font="2">RM'000</text>
+<text top="442" left="671" width="19" height="16" font="2">121</text>
+<text top="442" left="599" width="74" height="16" font="2">                       </text>
+<text top="442" left="784" width="19" height="16" font="2">114</text>
+<text top="442" left="712" width="74" height="16" font="2">                       </text>
+<text top="475" left="80" width="261" height="16" font="2">A14 PROVISION FOR RETIREMENT BENEFITS</text>
+<text top="593" left="80" width="328" height="16" font="2">A15 VALUATION OF PROPERTY, PLANT AND EQUIPMENT</text>
+<text top="677" left="80" width="388" height="16" font="2">A16 MATERIAL EVENTS SUBSEQUENT TO THE END OF THE PERIOD</text>
+<text top="760" left="80" width="305" height="16" font="2">A17 CHANGES IN THE COMPOSITION OF THE GROUP</text>
+<text top="895" left="80" width="177" height="16" font="2">A18 CONTINGENT LIABILITIES</text>
+<text top="927" left="112" width="695" height="16" font="2">The Directors are of the opinion that the Group has no contingent liabilities which, upon crystallisation would have a material impact on</text>
+<text top="945" left="112" width="698" height="16" font="2">the financial position and business of the Group as at  20 November 2019 (the latest practicable date which is not earlier than 7 days from </text>
+<text top="963" left="112" width="207" height="16" font="2">the date of issue of this financial results).</text>
+<text top="441" left="112" width="251" height="16" font="2">Financial assets at fair value through profit or loss</text>
+<text top="508" left="112" width="695" height="16" font="2">Provision for retirement benefits of the Group relate to long service payments (&#34;LSP&#34;) provisions as prescribed under the Hong Kong</text>
+<text top="525" left="112" width="695" height="16" font="2">Employment Ordinance. LSP is paid to employees of a subsidiary company upon termination of their employment, subject to completion</text>
+<text top="543" left="112" width="695" height="16" font="2">of five years of continuous service and meeting certain qualifying conditions. The benefit is based on final wages and service at leaving</text>
+<text top="561" left="112" width="65" height="16" font="2">employment.</text>
+<text top="626" left="112" width="695" height="16" font="2">There were no changes in the valuation of the property, plant and equipment reported in the previous audited financial statements that</text>
+<text top="643" left="112" width="272" height="16" font="2">will have an effect in the current quarter under review.</text>
+<text top="709" left="112" width="695" height="16" font="2">There was no material event subsequent to the current financial quarter up to the date of the announcement of this report which is likely</text>
+<text top="727" left="112" width="548" height="16" font="2">to substantially affect the results of the operations of the Group for the current financial quarter under review.</text>
+<text top="793" left="112" width="695" height="16" font="2">On 22 February 2019, the Company had acquired the entire equity interest in Asianext Sdn. Bhd. (“Asianext”) comprising of 2 ordinary</text>
+<text top="810" left="112" width="695" height="16" font="2">shares for a total cash consideration of RM2. Asianext is principally engaged in providing, operate and maintain a digital asset exchange</text>
+<text top="828" left="112" width="683" height="16" font="2">and alternative trading system. The Acquisition is not expected to have any material effect on the earnings and net assets of the Group.</text>
+<text top="861" left="112" width="601" height="16" font="2">Other than the above, there were no other changes in the composition of the Group for the current period under review.</text>
+<text top="201" left="112" width="661" height="16" font="2">The Group uses the following hierarchy for determining and disclosing the fair value of financial instruments by valuation technique:</text>
+<text top="236" left="112" width="371" height="16" font="2">• Level 1: Quoted prices in active markets for identical assets or liabilities.</text>
+<text top="270" left="112" width="427" height="16" font="2">• Level 3: Inputs for the asset or liability that is not based on observable market data.</text>
+<text top="1211" left="800" width="15" height="15" font="2">12</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="82" left="80" width="195" height="16" font="2">N2N CONNECT BERHAD (523137-K)</text>
+<text top="100" left="80" width="132" height="16" font="2">(Incorporated in Malaysia)</text>
+<text top="117" left="80" width="384" height="16" font="2">UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS</text>
+<text top="134" left="80" width="389" height="16" font="2">FOR THE QUARTER AND YEAR-TO-DATE ENDED 30 SEPTEMBER 2019</text>
+<text top="168" left="80" width="172" height="16" font="2">A19 CAPITAL COMMITMENTS</text>
+<text top="234" left="80" width="299" height="16" font="2">A20 SIGNIFICANT RELATED PARTY TRANSACTIONS</text>
+<text top="200" left="112" width="405" height="16" font="2">There were no material capital commitments in the current quarter under review.</text>
+<text top="269" left="112" width="440" height="16" font="2">There were no significant related party transactions in the current quarter under review.</text>
+<text top="1211" left="800" width="15" height="15" font="2">13</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="82" left="80" width="195" height="16" font="2">N2N CONNECT BERHAD (523137-K)</text>
+<text top="100" left="80" width="132" height="16" font="2">(Incorporated in Malaysia)</text>
+<text top="117" left="80" width="384" height="16" font="2">UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS</text>
+<text top="134" left="80" width="389" height="16" font="2">FOR THE QUARTER AND YEAR-TO-DATE ENDED 30 SEPTEMBER 2019</text>
+<text top="168" left="80" width="8" height="16" font="2">B</text>
+<text top="168" left="112" width="622" height="16" font="2">ADDITIONAL INFORMATION REQUIRED BY THE ACE MARKET LISTING REQUIREMENTS OF BURSA SECURITIES</text>
+<text top="202" left="80" width="15" height="16" font="2">B1</text>
+<text top="202" left="112" width="157" height="16" font="2">REVIEW OF PERFORMANCE</text>
+<text top="237" left="112" width="14" height="16" font="2">(a)</text>
+<text top="237" left="145" width="419" height="16" font="2">Performance of current quarter against the preceding year's corresponding quarter </text>
+<text top="288" left="621" width="69" height="16" font="2">30 Sept 2019</text>
+<text top="288" left="734" width="69" height="16" font="2">30 Sept 2018</text>
+<text top="305" left="651" width="39" height="16" font="2">RM'000</text>
+<text top="305" left="764" width="39" height="16" font="2">RM'000</text>
+<text top="339" left="145" width="46" height="16" font="2">Revenue</text>
+<text top="339" left="655" width="35" height="16" font="2">25,450</text>
+<text top="339" left="599" width="58" height="16" font="2">                  </text>
+<text top="339" left="768" width="35" height="16" font="2">25,238</text>
+<text top="339" left="712" width="58" height="16" font="2">                  </text>
+<text top="356" left="145" width="102" height="16" font="2">Profit for the quarter</text>
+<text top="356" left="662" width="28" height="16" font="2">5,457</text>
+<text top="356" left="599" width="65" height="16" font="2">                    </text>
+<text top="356" left="775" width="28" height="16" font="2">2,122</text>
+<text top="356" left="712" width="65" height="16" font="2">                    </text>
+<text top="373" left="145" width="61" height="16" font="2">Core profit *</text>
+<text top="373" left="662" width="28" height="16" font="2">4,656</text>
+<text top="373" left="599" width="65" height="16" font="2">                    </text>
+<text top="373" left="775" width="28" height="16" font="2">3,055</text>
+<text top="373" left="712" width="65" height="16" font="2">                    </text>
+<text top="408" left="145" width="304" height="16" font="2">* Core profit represents earnings before extraordinary items.</text>
+<text top="630" left="112" width="14" height="16" font="2">(b)</text>
+<text top="630" left="145" width="471" height="16" font="2">Performance of the current financial period against the preceding year's corresponding period</text>
+<text top="681" left="621" width="69" height="16" font="2">30 Sept 2019</text>
+<text top="681" left="734" width="69" height="16" font="2">30 Sept 2018</text>
+<text top="698" left="651" width="39" height="16" font="2">RM'000</text>
+<text top="698" left="764" width="39" height="16" font="2">RM'000</text>
+<text top="732" left="145" width="46" height="16" font="2">Revenue</text>
+<text top="732" left="655" width="35" height="16" font="2">78,866</text>
+<text top="732" left="599" width="58" height="16" font="2">                  </text>
+<text top="732" left="768" width="35" height="16" font="2">80,253</text>
+<text top="732" left="712" width="58" height="16" font="2">                  </text>
+<text top="750" left="145" width="97" height="16" font="2">Profit for the period</text>
+<text top="750" left="655" width="35" height="16" font="2">13,804</text>
+<text top="750" left="599" width="58" height="16" font="2">                  </text>
+<text top="750" left="768" width="35" height="16" font="2">10,045</text>
+<text top="750" left="712" width="58" height="16" font="2">                  </text>
+<text top="767" left="145" width="61" height="16" font="2">Core profit *</text>
+<text top="767" left="655" width="35" height="16" font="2">11,122</text>
+<text top="767" left="599" width="58" height="16" font="2">                  </text>
+<text top="767" left="768" width="35" height="16" font="2">14,315</text>
+<text top="767" left="712" width="58" height="16" font="2">                  </text>
+<text top="801" left="145" width="304" height="16" font="2">* Core profit represents earnings before extraordinary items.</text>
+<text top="578" left="145" width="662" height="16" font="2">The Group’s core profits improved by 52.3% to RM4.66 million in the current quarter compared to RM3.06 million in the</text>
+<text top="596" left="145" width="651" height="16" font="2">corresponding quarter. The improvement was contributed by higher margins and lower operating expenses in the current quarter.</text>
+<text top="664" left="647" width="109" height="16" font="2">Year-To-Date Ended</text>
+<text top="835" left="145" width="662" height="16" font="2">The Group recorded a revenue of RM78.87 million for the period ended 30 September 2019 in comparison to revenue of RM80.25</text>
+<text top="852" left="145" width="662" height="16" font="2">million in the preceding year's corresponding period. The lower revenue of 1.72% was mainly due to lower one time implementation</text>
+<text top="870" left="145" width="44" height="16" font="2">charges.</text>
+<text top="903" left="145" width="662" height="16" font="2">The profit after taxation for the current period totalling RM13.80 million was 37.3% higher than the profit after taxation of RM10.05</text>
+<text top="921" left="145" width="662" height="16" font="2">million recorded in the corresponding period. The improvement was mainly contributed by the net effects of higher other income</text>
+<text top="939" left="145" width="608" height="16" font="2">and the absence of one-time additional taxes and tax penalties that was borne by the Group in the corresponding period.</text>
+<text top="972" left="145" width="662" height="16" font="2">The Group recorded a lower core profit of RM11.12 million in the current period compared to RM14.32 million in corresponding</text>
+<text top="989" left="145" width="414" height="16" font="2">period resulting from lower one-time implementation charges in the current period.</text>
+<text top="270" left="662" width="79" height="16" font="2">Quarter Ended</text>
+<text top="442" left="145" width="662" height="16" font="2">The Group recorded a revenue of RM25.45 million for the quarter ended 30 September 2019 in comparison to RM25.24 million in</text>
+<text top="459" left="145" width="662" height="16" font="2">the preceding year's corresponding quarter. The higher revenue of 0.83% was mainly due to higher subscription fees and managed</text>
+<text top="477" left="145" width="182" height="16" font="2">services fees in the current quarter. </text>
+<text top="510" left="145" width="662" height="16" font="2">The profit after taxation for the current quarter totalling RM5.46 million was 157.55% higher than the profit after taxation of RM2.12</text>
+<text top="528" left="145" width="662" height="16" font="2">million recorded in the corresponding quarter. This was mainly attributed to the combination of an increase in other income for the</text>
+<text top="545" left="145" width="611" height="16" font="2">current quarter and the absence of a one-time additional taxes that was borne by the Group in the corresponding quarter.</text>
+<text top="1211" left="800" width="15" height="15" font="2">14</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="82" left="80" width="195" height="16" font="2">N2N CONNECT BERHAD (523137-K)</text>
+<text top="100" left="80" width="132" height="16" font="2">(Incorporated in Malaysia)</text>
+<text top="117" left="80" width="384" height="16" font="2">UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS</text>
+<text top="134" left="80" width="389" height="16" font="2">FOR THE QUARTER AND YEAR-TO-DATE ENDED 30 SEPTEMBER 2019</text>
+<text top="168" left="80" width="15" height="16" font="2">B2</text>
+<text top="219" left="621" width="69" height="16" font="2">30 Sept 2019</text>
+<text top="219" left="738" width="65" height="16" font="2">30 Jun 2019</text>
+<text top="236" left="651" width="39" height="16" font="2">RM'000</text>
+<text top="236" left="764" width="39" height="16" font="2">RM'000</text>
+<text top="271" left="112" width="46" height="16" font="2">Revenue</text>
+<text top="271" left="655" width="35" height="16" font="2">25,450</text>
+<text top="271" left="599" width="58" height="16" font="2">                  </text>
+<text top="271" left="768" width="35" height="16" font="2">26,168</text>
+<text top="271" left="712" width="58" height="16" font="2">                  </text>
+<text top="288" left="112" width="102" height="16" font="2">Profit for the quarter</text>
+<text top="288" left="662" width="28" height="16" font="2">5,457</text>
+<text top="288" left="599" width="65" height="16" font="2">                    </text>
+<text top="288" left="775" width="28" height="16" font="2">2,861</text>
+<text top="288" left="712" width="65" height="16" font="2">                    </text>
+<text top="305" left="112" width="61" height="16" font="2">Core profit *</text>
+<text top="305" left="662" width="28" height="16" font="2">4,656</text>
+<text top="305" left="599" width="65" height="16" font="2">                    </text>
+<text top="305" left="775" width="28" height="16" font="2">2,019</text>
+<text top="305" left="712" width="65" height="16" font="2">                    </text>
+<text top="339" left="112" width="304" height="16" font="2">* Core profit represents earnings before extraordinary items.</text>
+<text top="544" left="80" width="15" height="16" font="2">B3</text>
+<text top="544" left="112" width="70" height="16" font="2">PROSPECTS</text>
+<text top="783" left="80" width="15" height="16" font="2">B4</text>
+<text top="783" left="112" width="326" height="16" font="2">VARIATION OF ACTUAL PROFIT FROM FORECAST PROFIT</text>
+<text top="818" left="112" width="254" height="16" font="2">Not applicable as no profit forecast was published.</text>
+<text top="852" left="80" width="15" height="16" font="2">B5</text>
+<text top="852" left="112" width="320" height="16" font="2">ITEMS IN THE STATEMENT OF COMPREHENSIVE INCOME</text>
+<text top="886" left="112" width="448" height="16" font="2">The following items have been charged/(credited) in arriving at the profit from operations:</text>
+<text top="937" left="395" width="69" height="16" font="2">30 Sept 2019</text>
+<text top="937" left="508" width="69" height="16" font="2">30 Sept 2018</text>
+<text top="937" left="621" width="69" height="16" font="2">30 Sept 2019</text>
+<text top="937" left="734" width="69" height="16" font="2">30 Sept 2018</text>
+<text top="954" left="424" width="39" height="16" font="2">RM'000</text>
+<text top="954" left="537" width="39" height="16" font="2">RM'000</text>
+<text top="954" left="651" width="39" height="16" font="2">RM'000</text>
+<text top="954" left="764" width="39" height="16" font="2">RM'000</text>
+<text top="989" left="112" width="14" height="16" font="2">(a)</text>
+<text top="989" left="145" width="78" height="16" font="2">Interest income</text>
+<text top="989" left="447" width="20" height="16" font="2">(91)</text>
+<text top="989" left="373" width="78" height="16" font="2">                        </text>
+<text top="989" left="561" width="20" height="16" font="2">(82)</text>
+<text top="989" left="486" width="78" height="16" font="2">                        </text>
+<text top="989" left="667" width="26" height="16" font="2">(321)</text>
+<text top="989" left="599" width="71" height="16" font="2">                      </text>
+<text top="989" left="780" width="26" height="16" font="2">(586)</text>
+<text top="989" left="712" width="71" height="16" font="2">                      </text>
+<text top="1006" left="112" width="14" height="16" font="2">(b)</text>
+<text top="1006" left="145" width="85" height="16" font="2">Dividend Income</text>
+<text top="1006" left="441" width="26" height="16" font="2">(922)</text>
+<text top="1006" left="373" width="71" height="16" font="2">                      </text>
+<text top="1006" left="554" width="26" height="16" font="2">(740)</text>
+<text top="1006" left="486" width="71" height="16" font="2">                      </text>
+<text top="1006" left="658" width="36" height="16" font="2">(2,643)</text>
+<text top="1006" left="599" width="61" height="16" font="2">                   </text>
+<text top="1006" left="771" width="36" height="16" font="2">(1,480)</text>
+<text top="1006" left="712" width="61" height="16" font="2">                   </text>
+<text top="1023" left="112" width="13" height="16" font="2">(c)</text>
+<text top="1023" left="145" width="84" height="16" font="2">Interest expense</text>
+<text top="1023" left="445" width="19" height="16" font="2">296</text>
+<text top="1023" left="373" width="74" height="16" font="2">                       </text>
+<text top="1023" left="558" width="19" height="16" font="2">391</text>
+<text top="1023" left="487" width="74" height="16" font="2">                       </text>
+<text top="1023" left="662" width="28" height="16" font="2">1,001</text>
+<text top="1023" left="599" width="65" height="16" font="2">                    </text>
+<text top="1023" left="775" width="28" height="16" font="2">1,431</text>
+<text top="1023" left="713" width="65" height="16" font="2">                    </text>
+<text top="1040" left="112" width="14" height="16" font="2">(d)</text>
+<text top="1040" left="145" width="151" height="16" font="2">Depreciation and amortisation</text>
+<text top="1040" left="435" width="28" height="16" font="2">2,706</text>
+<text top="1040" left="373" width="65" height="16" font="2">                    </text>
+<text top="1040" left="548" width="28" height="16" font="2">2,520</text>
+<text top="1040" left="487" width="65" height="16" font="2">                    </text>
+<text top="1040" left="662" width="28" height="16" font="2">8,133</text>
+<text top="1040" left="599" width="65" height="16" font="2">                    </text>
+<text top="1040" left="775" width="28" height="16" font="2">7,725</text>
+<text top="1040" left="713" width="65" height="16" font="2">                    </text>
+<text top="1057" left="112" width="14" height="16" font="2">(e)</text>
+<text top="1057" left="445" width="19" height="16" font="2">325</text>
+<text top="1057" left="373" width="74" height="16" font="2">                       </text>
+<text top="1057" left="564" width="13" height="16" font="2">81</text>
+<text top="1057" left="487" width="81" height="16" font="2">                         </text>
+<text top="1057" left="671" width="19" height="16" font="2">256</text>
+<text top="1057" left="599" width="74" height="16" font="2">                       </text>
+<text top="1057" left="780" width="26" height="16" font="2">(963)</text>
+<text top="1057" left="712" width="71" height="16" font="2">                      </text>
+<text top="1074" left="112" width="11" height="16" font="2">(f)</text>
+<text top="1074" left="145" width="191" height="16" font="2">Fair value change on financial assets </text>
+<text top="1092" left="145" width="176" height="16" font="2">   at fair value through profit or loss</text>
+<text top="1092" left="447" width="4" height="16" font="2">-</text>
+<text top="1092" left="373" width="78" height="16" font="2">                        </text>
+<text top="1092" left="561" width="20" height="16" font="2">(10)</text>
+<text top="1092" left="486" width="78" height="16" font="2">                        </text>
+<text top="1092" left="680" width="14" height="16" font="2">(7)</text>
+<text top="1092" left="599" width="84" height="16" font="2">                          </text>
+<text top="1092" left="784" width="19" height="16" font="2">117</text>
+<text top="1092" left="713" width="74" height="16" font="2">                       </text>
+<text top="920" left="436" width="79" height="16" font="2">Quarter Ended</text>
+<text top="920" left="647" width="109" height="16" font="2">Year-To-Date Ended</text>
+<text top="1057" left="145" width="164" height="16" font="2">Net foreign exchange loss/(gain)</text>
+<text top="202" left="662" width="79" height="16" font="2">Quarter Ended</text>
+<text top="373" left="112" width="695" height="16" font="2">The Group recorded a lower revenue of RM25.45 million or 2.75% in comparison to RM26.17 million in the immediate preceding quarter</text>
+<text top="390" left="332" width="4" height="16" font="3"> </text>
+<text top="391" left="112" width="220" height="16" font="2">mainly due to lower transaction based fees.</text>
+<text top="424" left="112" width="695" height="16" font="2">The Group recorded a higher profit after taxation of RM5.46 million for the current quarter in comparison to RM2.86 million for the</text>
+<text top="442" left="112" width="695" height="16" font="2">preceding quarter. The 90.91% improvement in profit after taxation was mainly due to the combination of higher margins and lower</text>
+<text top="460" left="112" width="81" height="16" font="2">operation costs.</text>
+<text top="493" left="112" width="695" height="16" font="2">The core profits of the Group improved 130.69% to RM4.66 million in the current quarter compared to RM2.02 million in the preceding</text>
+<text top="510" left="531" width="4" height="16" font="3">  </text>
+<text top="510" left="112" width="418" height="16" font="2">quarter mainly due to the combination of higher margins and lower operation costs.</text>
+<text top="578" left="112" width="695" height="16" font="2">The Group launched its Asia e-Broker and Asia Trading Hub to its Malaysian based clients on 7th November 2019. Asia e-Broker is a</text>
+<text top="596" left="112" width="695" height="16" font="2">platform that makes it easy for investors to trade globally whilst Asia Trading Hub is a global connective platform that connects over 100</text>
+<text top="614" left="112" width="695" height="16" font="2">brokers across the region. The launch marks the initial phase of the endeavour, covering the capital markets of Malaysia, Singapore,</text>
+<text top="631" left="112" width="695" height="16" font="2">Hong Kong and US. Exchanges that are encompassed includes Bursa Malaysia, Singapore Exchange (SGX), Hong Kong Exchange</text>
+<text top="649" left="112" width="695" height="16" font="2">(HKEX), Shenzen Stock Exchange (SZSE), Shanghai Stock Exchange (SSE), New York Stock Exchange (NYSE), NASDAQ and NYSE</text>
+<text top="667" left="112" width="695" height="16" font="2">American. The Group is optimistic that the launch of Asia e-Broker and Asia Trading Hub will help securities companies and investment</text>
+<text top="684" left="112" width="695" height="16" font="2">banks promote greater uptake of cross border trades from the retail sector. Following the launch in Malaysia, the Group will soon be</text>
+<text top="702" left="112" width="338" height="16" font="2">introducing both platforms to brokers in Singapore and Hong Kong.</text>
+<text top="732" left="112" width="695" height="16" font="2">On the regional front, the Group continues to closely monitor the developments in Hong Kong. Barring unforeseen circumstance, the</text>
+<text top="750" left="112" width="448" height="16" font="2">Group does not expect a material impact to its operations in Hong Kong in the near term.</text>
+<text top="168" left="112" width="637" height="16" font="2">MATERIAL CHANGES IN THE CURRENT QUARTER RESULTS COMPARED WITH IMMEDIATE PRECEDING QUARTER</text>
+<text top="1211" left="800" width="15" height="15" font="2">15</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="82" left="80" width="195" height="16" font="2">N2N CONNECT BERHAD (523137-K)</text>
+<text top="100" left="80" width="132" height="16" font="2">(Incorporated in Malaysia)</text>
+<text top="117" left="80" width="384" height="16" font="2">UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS</text>
+<text top="134" left="80" width="389" height="16" font="2">FOR THE QUARTER AND YEAR-TO-DATE ENDED 30 SEPTEMBER 2019</text>
+<text top="168" left="80" width="15" height="16" font="2">B6</text>
+<text top="168" left="112" width="58" height="16" font="2">TAXATION</text>
+<text top="219" left="395" width="69" height="16" font="2">30 Sept 2019</text>
+<text top="219" left="508" width="69" height="16" font="2">30 Sept 2018</text>
+<text top="219" left="621" width="69" height="16" font="2">30 Sept 2019</text>
+<text top="219" left="734" width="69" height="16" font="2">30 Sept 2018</text>
+<text top="236" left="424" width="39" height="16" font="2">RM'000</text>
+<text top="236" left="537" width="39" height="16" font="2">RM'000</text>
+<text top="236" left="651" width="39" height="16" font="2">RM'000</text>
+<text top="236" left="764" width="39" height="16" font="2">RM'000</text>
+<text top="271" left="112" width="60" height="16" font="2">Current tax:</text>
+<text top="288" left="112" width="119" height="16" font="2">- Current year provision</text>
+<text top="288" left="441" width="26" height="16" font="2">(253)</text>
+<text top="288" left="373" width="71" height="16" font="2">                      </text>
+<text top="288" left="554" width="26" height="16" font="2">(339)</text>
+<text top="288" left="486" width="71" height="16" font="2">                      </text>
+<text top="288" left="658" width="36" height="16" font="2">(1,457)</text>
+<text top="288" left="599" width="61" height="16" font="2">                   </text>
+<text top="288" left="780" width="26" height="16" font="2">(579)</text>
+<text top="288" left="712" width="71" height="16" font="2">                      </text>
+<text top="305" left="112" width="156" height="16" font="2">- Under provision in prior years</text>
+<text top="305" left="447" width="20" height="16" font="2">(19)</text>
+<text top="305" left="373" width="78" height="16" font="2">                        </text>
+<text top="305" left="545" width="36" height="16" font="2">(1,002)</text>
+<text top="305" left="486" width="61" height="16" font="2">                   </text>
+<text top="305" left="674" width="20" height="16" font="2">(19)</text>
+<text top="305" left="599" width="78" height="16" font="2">                        </text>
+<text top="305" left="771" width="36" height="16" font="2">(4,675)</text>
+<text top="305" left="712" width="61" height="16" font="2">                   </text>
+<text top="322" left="441" width="26" height="16" font="2">(272)</text>
+<text top="322" left="373" width="71" height="16" font="2">                      </text>
+<text top="322" left="545" width="36" height="16" font="2">(1,341)</text>
+<text top="322" left="486" width="61" height="16" font="2">                   </text>
+<text top="322" left="658" width="36" height="16" font="2">(1,476)</text>
+<text top="322" left="599" width="61" height="16" font="2">                   </text>
+<text top="322" left="771" width="36" height="16" font="2">(5,254)</text>
+<text top="322" left="712" width="61" height="16" font="2">                   </text>
+<text top="427" left="80" width="15" height="16" font="2">B7</text>
+<text top="427" left="112" width="152" height="16" font="2">MARKETABLE SECURITIES</text>
+<text top="461" left="660" width="30" height="16" font="2">As At</text>
+<text top="461" left="773" width="30" height="16" font="2">As At</text>
+<text top="478" left="621" width="69" height="16" font="2">30 Sept 2019</text>
+<text top="478" left="738" width="65" height="16" font="2">31 Dec 2018</text>
+<text top="496" left="651" width="39" height="16" font="2">RM'000</text>
+<text top="496" left="764" width="39" height="16" font="2">RM'000</text>
+<text top="530" left="112" width="157" height="16" font="2">Quoted unit trusts in Malalysia*</text>
+<text top="530" left="655" width="35" height="16" font="2">81,792</text>
+<text top="530" left="768" width="35" height="16" font="2">52,045</text>
+<text top="530" left="712" width="58" height="16" font="2">                  </text>
+<text top="615" left="80" width="15" height="16" font="2">B8</text>
+<text top="615" left="112" width="271" height="16" font="2">GROUP'S BORROWINGS AND DEBT SECURITIES</text>
+<text top="649" left="660" width="30" height="16" font="2">As At</text>
+<text top="649" left="773" width="30" height="16" font="2">As At</text>
+<text top="667" left="621" width="69" height="16" font="2">30 Sept 2019</text>
+<text top="667" left="738" width="65" height="16" font="2">31 Dec 2018</text>
+<text top="684" left="651" width="39" height="16" font="2">RM'000</text>
+<text top="684" left="764" width="39" height="16" font="2">RM'000</text>
+<text top="718" left="112" width="45" height="16" font="2">Secured</text>
+<text top="735" left="112" width="124" height="16" font="2">Short-term borrowings</text>
+<text top="753" left="112" width="102" height="16" font="2">United States Dollar</text>
+<text top="770" left="112" width="51" height="16" font="2">Term loan</text>
+<text top="769" left="595" width="96" height="16" font="2">                    9,311 </text>
+<text top="769" left="708" width="96" height="16" font="2">                    9,191 </text>
+<text top="803" left="112" width="122" height="16" font="2">Long-term borrowings</text>
+<text top="821" left="112" width="102" height="16" font="2">United States Dollar</text>
+<text top="838" left="112" width="51" height="16" font="2">Term loan</text>
+<text top="838" left="595" width="96" height="16" font="2">                  13,967 </text>
+<text top="838" left="708" width="96" height="16" font="2">                  20,680 </text>
+<text top="855" left="595" width="96" height="16" font="2">                  23,278 </text>
+<text top="855" left="708" width="96" height="16" font="2">                  29,871 </text>
+<text top="889" left="80" width="15" height="16" font="2">B9</text>
+<text top="889" left="112" width="274" height="16" font="2">OFF BALANCE SHEET FINANCIAL INSTRUMENTS</text>
+<text top="564" left="112" width="698" height="16" font="2">Note * : These relate to quoted Islamic unit trusts, which are exempted from corporate tax, produce higher yields and have the flexibility of </text>
+<text top="582" left="112" width="57" height="16" font="2">withdrawal.</text>
+<text top="923" left="112" width="624" height="16" font="2">There were no financial instruments with off balance sheet risk as at the date of this announcement applicable to the Group.</text>
+<text top="202" left="436" width="79" height="16" font="2">Quarter Ended</text>
+<text top="202" left="647" width="109" height="16" font="2">Year-To-Date Ended</text>
+<text top="356" left="112" width="695" height="16" font="2">The effective tax rate of the Group for the current quarter under review was lower than the statutory tax rate of 24% mainly due to</text>
+<text top="374" left="112" width="695" height="16" font="2">subsidiary companies have been granted tax exemption for Multimedia Super Corridor (&#34;MSC&#34;) qualifying activities under pioneer status</text>
+<text top="391" left="112" width="330" height="16" font="2">pursuant to the Promotion of Investments Act, 1986 in Malaysia.  </text>
+<text top="1211" left="800" width="15" height="15" font="2">16</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="82" left="80" width="195" height="16" font="2">N2N CONNECT BERHAD (523137-K)</text>
+<text top="100" left="80" width="132" height="16" font="2">(Incorporated in Malaysia)</text>
+<text top="117" left="80" width="384" height="16" font="2">UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS</text>
+<text top="134" left="80" width="389" height="16" font="2">FOR THE QUARTER AND YEAR-TO-DATE ENDED 30 SEPTEMBER 2019</text>
+<text top="168" left="80" width="160" height="16" font="2">B10 MATERIAL LITIGATION</text>
+<text top="288" left="80" width="163" height="16" font="2">B11 PROPOSED DIVIDENDS</text>
+<text top="356" left="80" width="207" height="16" font="2">B12 EARNINGS PER SHARE (&#34;EPS&#34;)</text>
+<text top="407" left="395" width="69" height="16" font="2">30 Sept 2019</text>
+<text top="407" left="508" width="69" height="16" font="2">30 Sept 2018</text>
+<text top="407" left="621" width="69" height="16" font="2">30 Sept 2019</text>
+<text top="407" left="734" width="69" height="16" font="2">30 Sept 2018</text>
+<text top="441" left="112" width="169" height="16" font="2">(a)   Basic earnings per share</text>
+<text top="476" left="145" width="102" height="16" font="2">Profit attributable to </text>
+<text top="493" left="145" width="180" height="16" font="2">   owners of the Company (RM'000)</text>
+<text top="493" left="435" width="28" height="16" font="2">5,559</text>
+<text top="493" left="373" width="65" height="16" font="2">                    </text>
+<text top="493" left="548" width="28" height="16" font="2">2,213</text>
+<text top="493" left="486" width="65" height="16" font="2">                    </text>
+<text top="493" left="655" width="35" height="16" font="2">14,106</text>
+<text top="493" left="599" width="58" height="16" font="2">                  </text>
+<text top="493" left="768" width="35" height="16" font="2">10,288</text>
+<text top="493" left="712" width="58" height="16" font="2">                  </text>
+<text top="527" left="145" width="150" height="16" font="2">Weighted average number of </text>
+<text top="544" left="145" width="162" height="16" font="2">   ordinary shares in issue ('000)</text>
+<text top="544" left="423" width="41" height="16" font="2">558,283</text>
+<text top="544" left="373" width="52" height="16" font="2">                </text>
+<text top="544" left="536" width="41" height="16" font="2">571,750</text>
+<text top="544" left="486" width="52" height="16" font="2">                </text>
+<text top="544" left="649" width="41" height="16" font="2">537,824</text>
+<text top="544" left="599" width="52" height="16" font="2">                </text>
+<text top="544" left="762" width="41" height="16" font="2">529,211</text>
+<text top="544" left="712" width="52" height="16" font="2">                </text>
+<text top="579" left="112" width="6" height="16" font="2">  </text>
+<text top="579" left="145" width="83" height="16" font="2">Basic EPS (sen)</text>
+<text top="579" left="442" width="22" height="16" font="2">1.00</text>
+<text top="579" left="373" width="71" height="16" font="2">                      </text>
+<text top="579" left="555" width="22" height="16" font="2">0.39</text>
+<text top="579" left="486" width="71" height="16" font="2">                      </text>
+<text top="579" left="668" width="22" height="16" font="2">2.62</text>
+<text top="579" left="599" width="71" height="16" font="2">                      </text>
+<text top="579" left="781" width="22" height="16" font="2">1.94</text>
+<text top="579" left="712" width="71" height="16" font="2">                      </text>
+<text top="612" left="112" width="177" height="16" font="2">(b)   Diluted earnings per share</text>
+<text top="647" left="145" width="102" height="16" font="2">Profit attributable to </text>
+<text top="664" left="145" width="180" height="16" font="2">   owners of the Company (RM'000)</text>
+<text top="664" left="435" width="28" height="16" font="2">5,559</text>
+<text top="664" left="373" width="65" height="16" font="2">                    </text>
+<text top="664" left="548" width="28" height="16" font="2">2,213</text>
+<text top="664" left="486" width="65" height="16" font="2">                    </text>
+<text top="664" left="655" width="35" height="16" font="2">14,106</text>
+<text top="664" left="599" width="58" height="16" font="2">                  </text>
+<text top="664" left="768" width="35" height="16" font="2">10,288</text>
+<text top="664" left="712" width="58" height="16" font="2">                  </text>
+<text top="698" left="145" width="150" height="16" font="2">Weighted average number of </text>
+<text top="715" left="145" width="162" height="16" font="2">   ordinary shares in issue ('000)</text>
+<text top="715" left="423" width="41" height="16" font="2">558,283</text>
+<text top="715" left="373" width="52" height="16" font="2">                </text>
+<text top="715" left="536" width="41" height="16" font="2">571,750</text>
+<text top="715" left="486" width="52" height="16" font="2">                </text>
+<text top="715" left="649" width="41" height="16" font="2">537,824</text>
+<text top="715" left="599" width="52" height="16" font="2">                </text>
+<text top="715" left="762" width="41" height="16" font="2">529,211</text>
+<text top="715" left="712" width="52" height="16" font="2">                </text>
+<text top="732" left="145" width="159" height="16" font="2">Assumed exercise of Warrants </text>
+<text top="750" left="145" width="138" height="16" font="2">   at no consideration ('000)</text>
+<text top="750" left="423" width="41" height="16" font="2">140,090</text>
+<text top="750" left="373" width="52" height="16" font="2">                </text>
+<text top="750" left="561" width="4" height="16" font="2">-</text>
+<text top="750" left="486" width="78" height="16" font="2">                        </text>
+<text top="750" left="649" width="41" height="16" font="2">140,090</text>
+<text top="750" left="599" width="52" height="16" font="2">                </text>
+<text top="750" left="787" width="4" height="16" font="2">-</text>
+<text top="750" left="712" width="78" height="16" font="2">                        </text>
+<text top="767" left="145" width="195" height="16" font="2">Adjusted weighted average number of </text>
+<text top="784" left="145" width="204" height="16" font="2">   ordinary shares in issue and issueable</text>
+<text top="801" left="145" width="42" height="16" font="2">    ('000)</text>
+<text top="800" left="423" width="41" height="16" font="2">698,373</text>
+<text top="800" left="374" width="52" height="16" font="2">                </text>
+<text top="800" left="536" width="41" height="16" font="2">571,750</text>
+<text top="800" left="487" width="52" height="16" font="2">                </text>
+<text top="800" left="649" width="41" height="16" font="2">677,914</text>
+<text top="800" left="600" width="52" height="16" font="2">                </text>
+<text top="800" left="762" width="41" height="16" font="2">529,211</text>
+<text top="800" left="713" width="52" height="16" font="2">                </text>
+<text top="818" left="145" width="91" height="16" font="2">Diluted EPS (sen)</text>
+<text top="818" left="442" width="22" height="16" font="2">0.80</text>
+<text top="818" left="373" width="71" height="16" font="2">                      </text>
+<text top="818" left="555" width="22" height="16" font="2">0.39</text>
+<text top="818" left="486" width="71" height="16" font="2">                      </text>
+<text top="818" left="668" width="22" height="16" font="2">2.08</text>
+<text top="818" left="599" width="71" height="16" font="2">                      </text>
+<text top="818" left="781" width="22" height="16" font="2">1.94</text>
+<text top="818" left="712" width="71" height="16" font="2">                      </text>
+<text top="202" left="112" width="695" height="16" font="2">Neither the Company nor its subsidiary is engaged in any litigation or arbitration, either as plaintiff or defendant, which has a material</text>
+<text top="220" left="112" width="695" height="16" font="2">effect on the financial position of the Company or its subsidiary and the Board of Directors does not know of any proceedings pending or</text>
+<text top="237" left="112" width="695" height="16" font="2">threatened, or of any fact likely to give rise to any proceedings, which might materially and adversely affect the position or business of the</text>
+<text top="255" left="112" width="135" height="16" font="2">Company or its subsidiary.</text>
+<text top="322" left="112" width="450" height="16" font="2">No dividend has been declared or recommended during the current quarter under review.</text>
+<text top="390" left="436" width="79" height="16" font="2">Quarter Ended</text>
+<text top="390" left="647" width="109" height="16" font="2">Year-To-Date Ended</text>
+<text top="1211" left="800" width="15" height="15" font="2">17</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="82" left="80" width="195" height="16" font="2">N2N CONNECT BERHAD (523137-K)</text>
+<text top="100" left="80" width="132" height="16" font="2">(Incorporated in Malaysia)</text>
+<text top="117" left="80" width="384" height="16" font="2">UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS</text>
+<text top="134" left="80" width="389" height="16" font="2">FOR THE QUARTER AND YEAR-TO-DATE ENDED 30 SEPTEMBER 2019</text>
+<text top="168" left="80" width="21" height="16" font="2">B13</text>
+<text top="257" left="80" width="193" height="16" font="2">B14 AUTHORISATION FOR ISSUE</text>
+<text top="343" left="112" width="111" height="16" font="2">By Order of the Board</text>
+<text top="377" left="112" width="84" height="16" font="2">Tiang Boon Hwa</text>
+<text top="394" left="112" width="93" height="16" font="2">Managing Director</text>
+<text top="429" left="112" width="131" height="16" font="2">Date : 20 November 2019</text>
+<text top="168" left="112" width="695" height="16" font="2">STATUS OF CORPORATE PROPOSALS ANNOUNCED BUT NOT COMPLETED AT THE LATEST PRACTICABLE DATE WHICH</text>
+<text top="185" left="112" width="536" height="16" font="2">MUST NOT BE EARLIER THAN 7 DAYS FROM THE DATE OF ISSUE OF THE QUARTERLY REPORT</text>
+<text top="223" left="112" width="462" height="16" font="2">There were no corporate proposals announced but not completed as at 20 November 2019.</text>
+<text top="292" left="112" width="695" height="16" font="2">The unaudited condensed consolidated financial statements were authorised for issue by the Board of Directors in accordance with a</text>
+<text top="309" left="112" width="263" height="16" font="2">resolution of the directors dated 20 November 2019.</text>
+<text top="1211" left="800" width="15" height="15" font="2">18</text>
+</page>
+</pdf2xml>
